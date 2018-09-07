@@ -27,7 +27,7 @@ Here is a quick outline of what purpose each phase serves:
 
 2. **Phase 2** Introduce you to the skills you need to become a software engineer and how to acquire them. You will learn about various type of coding bootcamps (etc. Part-time, Remote) and which free prep course you can take. 
 
-3. **Phase 3** By the end of this phase, you will assemble all the puzzle pieces needed to create a roadmap. Now every hour or two a night can go towards getting to your destination. 
+3. **Phase 3** By the end of this phase, you will assemble all the puzzle pieces needed to create a roadmap. Now each hour or two a night can go towards getting to your destination. 
 
 
 # Phase 1:
