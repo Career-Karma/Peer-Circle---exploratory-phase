@@ -19,13 +19,15 @@
 
 ### How to use this doc:
 
-This doc is organized into three phases each serving a different purpose. If you feel comfortable, feel free to skip ahead to the sections that apply to you. Here is a quick outline of what purpose each phase serves:
+This doc is organized into three phases each serving a different purpose. We encourage you to go through each phase in this particular order but you can skip a phase if you already know it. 
 
-1. **Phase 1** is focused on helping you hear from some people who have transitioned successfully into software engineering roles and chart out your own path
+Here is a quick outline of what purpose each phase serves:
 
-2. **Phase 2** we’ll introduce you to coding and discuss various coding bootcamp formats
+1. **Phase 1** Introduction to stories of people who came from non-traditional backgrounds and transitioned successfully into software engineering roles. This will help you discover and determine your own unique path.
 
-3. **Phase 3** finally we will focus on perfecting your coding skills and executing on your path
+2. **Phase 2** Introduce you to the skills you need to become a software engineer and how to acquire them. You will learn about various type of coding bootcamps (etc. Part-time, Remote) and which free prep course you can take. 
+
+3. **Phase 3** By the end of this phase, you will assemble all the puzzle pieces needed to create a roadmap. Now every hour or two a night can go towards getting to your destination. 
 
 
 # Phase 1:
