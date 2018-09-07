@@ -3,15 +3,15 @@
 
 # Welcome to Career Karma!
 
-**Learning how to code could be tricky. 
+**Learning how to code could be tricky.** 
 
 *Our goal is to help you discover YOUR shortest path to a software engineering job.* 
 
-**There are thousands of tutorials online and you have to figure out which one to take.
+**There are thousands of tutorials online and you have to figure out which one to take.**
 
 *We will show you specific resources and tutorials your peers completed who become software engineers*
 
-**You might be learning to code alone or struggling to manage your time. 
+**You might be learning to code alone or struggling to manage your time.** 
 
 *We'll connect you to your peers who will keep you accountable, help you manager your schedule and help you if you get stuck.*
 
