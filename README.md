@@ -99,7 +99,7 @@ Below please watch previously recorded interviews with guests who share their st
 
 ### Research top 2-3 bootcamps:
 
-  Based on the factors we listed above, shortlist 2-3 bootcamps that might make sense for you and dig deeper into their programs. You don't have to choose one bootcamp at this stage, just learn more about the different options available to you.
+  Based on the information above, select 2-3 bootcamps that fit your schedule, financing and learning style and explore further. The goal is to learn more about the various options and formats available to you.
 
   **Here are the links to their websites:**
   
@@ -116,23 +116,32 @@ Below please watch previously recorded interviews with guests who share their st
 
   * **We encourage you to look up alumni of the different bootcamps on LinkedIn to see where they're working**
    * Search the bootcamp by name on linkedIn, click see alumni, filter by where they work
-   * Shortlist 1-2 people from each of your top choices and reach out to them via in mail
+   * For each of your choices, find 1-2 people and reach out to them via linkedin
 
 
 ### Leverage the peer circle:
 
-  Everyone in your peer circle is also working to understand which path best suits their own circumstances. It is very natural to have hesitations regarding bootcamps at this point.
+  Everyone in your peer circle is also working to understand which path best suits their unique situations. You might have discovered new or you may have some hesitations.
 
-  * Share your hesitations with your peers and brainstorm as a group
+  * Share something you didn't know before that you learned with your peer circle. 
+  
+  * Share one of your hesitations with your peers and hear them out.
 
-  * Chances are someone has had the EXACT SAME concerns as you and has found a way to move forward. Connect with people to understand some possible solutions
+  * Chances are someone has had the EXACT SAME concerns and they might help you see a different perspective. Connect with your peers!
 
 ### Pick your top bootcamp choice and get started with prep material:
 
-  The bootcamp you select doesn't have to be your final choice, but one that you're fairly certain interests you. You will spend the next few weeks working through that bootcamps specific material
+  At this stage we suggest you pick a free bootcamp prep course to take so you can keep learning in a structured manner. 
+  
+  Altough there are a lot of tutorials on Udemy or on Google, we belive the prep courses were designed to help someone get started and will ensure you're working towards your end goal. 
+  
+  The mistake we see a lot of people make is taking various tutorials without knowing exactly how that translates into acquiring the needed skills to find a job or get accepted into a coding program.  
+  
+Here is a list of free prep course that you can take: 
 
-  * [Hack Reactor SSP Program](http://smarturl.it/Hack-Reactor-prep)
   * [Lambda School intro to web development](http://smarturl.it/Lambda-School-prep)
+  * [Lets add flatiron here]()
+  * [Hack Reactor SSP Program](http://smarturl.it/Hack-Reactor-prep)
   * [Thinkful apply for prep](http://smarturl.it/Thinkful)
   * [App Academy apply for prep](https://www.appacademy.io)
   * [Fullstack Academy Coding fundementals course](http://smarturl.it/Fullstack-Academy)
