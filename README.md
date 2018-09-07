@@ -88,9 +88,9 @@ Below please watch previously recorded interviews with guests who share their st
 
 
    *   **Time commitment** - Bootcamps typically offer in person full time, in person part time, online full time, online part time, and self paced programs.
-   * **Locations** - Bootcamps are located in various cities across the US ad typically offer online options as well
-   * **Length of bootcamp** - Bootcamps can range from 3 months - 1 year and also offer self paced options
-   * **Tuition** - Bootcamps have various ways of helping students finance their program. Some bootcamps don't charge any tuition unless they place candidates in a job (also known as deffered tuition)
+   * **Locations** - Bootcamps are located in various cities across the US and typically offer online options as well
+   * **Length of bootcamp** - Bootcamps can range from 3 months - 1 year and some offer self-paced options
+   * **Tuition** - Bootcamps have various ways of helping students finance their program. Some bootcamps don't charge any tuition until they help you get a job (known as deffered tuition or an income sharing agreement)
 
 **Refer to the chart below to help you shortlist some bootcamps to consider:**
 
