@@ -42,15 +42,15 @@ Below please watch previously recorded interviews with guests who share their st
 
 ![jordan](https://user-images.githubusercontent.com/25531425/45239250-75bf1e80-b299-11e8-9606-e1b46a185a0c.jpg)
 
-  * [Jordan Jackson, Twitter engineer](https://drive.google.com/file/d/1j87DSymAxhZMLzSopEBHydgHK6T_cXxc/view?usp=sharing)
+  * [Jordan Jackson - Transitioned from the Airforce to a Software Engineer at Twitter](https://drive.google.com/file/d/1j87DSymAxhZMLzSopEBHydgHK6T_cXxc/view?usp=sharing)
 
 ![madelyn](https://user-images.githubusercontent.com/25531425/45239415-0138af80-b29a-11e8-9dbc-32d966d98fc0.jpg)
 
-  * [Madelyn Tavarez, Pinterest Engineer](https://drive.google.com/file/d/1-4UlSLfBJNbQZ6-CG7QeF9ED6QYsjqEo/view?usp=sharing)
+  * [Madelyn Tavarez - completed a part-time bootcamp and landed an apprenteship at Pinterest](https://drive.google.com/file/d/1-4UlSLfBJNbQZ6-CG7QeF9ED6QYsjqEo/view?usp=sharing)
 
 ![rich](https://user-images.githubusercontent.com/25531425/45239717-0a764c00-b29b-11e8-8acd-a67b813c2a14.jpg)
 
- * [Rich Smith, Netflix engineer](https://drive.google.com/file/d/18HisDmwFdifEeOyfd6FFMUR2-FL4jf47/view?usp=sharing)
+ * [Rich Smith, Dropped out of college and became a Senior Engineer at Netflix](https://drive.google.com/file/d/18HisDmwFdifEeOyfd6FFMUR2-FL4jf47/view?usp=sharing)
 
 **Success stories:**
 
