@@ -1,3 +1,6 @@
+*"No one should ever learn how to code in isolation"* 
+~Career Karma team
+
 # Welcome to Career Karma!
 
 Learning how to code is tricky. One has to know what topics to cover, where to find the resources and then actually follow through on the journey. We want to help guide you through this process. By leveraging the past experiences of peers who have been in your shoes, we are going to help you break in.  
