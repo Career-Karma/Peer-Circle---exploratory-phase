@@ -50,7 +50,7 @@ Below please watch previously recorded interviews with guests who share their st
 
 ![rich](https://user-images.githubusercontent.com/25531425/45239717-0a764c00-b29b-11e8-8acd-a67b813c2a14.jpg)
 
- * [Rich Smith, Dropped out of college and became a Senior Engineer at Netflix](https://drive.google.com/file/d/18HisDmwFdifEeOyfd6FFMUR2-FL4jf47/view?usp=sharing)
+ * [Rich Smith - Dropped out of college and became a Senior Engineer at Netflix](https://drive.google.com/file/d/18HisDmwFdifEeOyfd6FFMUR2-FL4jf47/view?usp=sharing)
 
 **Success stories:**
 
@@ -68,10 +68,10 @@ Below please watch previously recorded interviews with guests who share their st
 
   * [Get started with this JavaScript intro course](https://www.codecademy.com/learn/introduction-to-javascript?utm_source=google&utm_medium=adwords&utm_campaign=tm&utm_content=tm_javascript&utm_term=%2Bcodecademy%20%2Bjavascript&gclid=Cj0KCQjww8jcBRDZARIsAJGCSGu3mbP3AjJkLTWhnhXRGlbboIcW0x2eolFXAyb1l5Wbx41u1wpq6jUaAlS7EALw_wcB)
 
-**Before moving forward:**
+**What you should of learned:**
 
   * Learn how other peers successfully transitioned to software engineering roles
-  * Know what your path to becoming a software engineer is
+  * Know about several paths that you could take to become a software engineer
   * Start JavaScript intro
 
 
