@@ -102,10 +102,10 @@ Below please watch previously recorded interviews with guests who share their st
   Based on the factors we listed above, shortlist 2-3 bootcamps that might make sense for you and dig deeper into their programs. You don't have to choose one bootcamp at this stage, just learn more about the different options available to you.
 
   **Here are the links to their websites:**
-
+  
+  * [Lamda School](https://lambdaschool.com/)
   * [App Academy](https://www.appacademy.io/)
   * [Hack Reactor](https://www.hackreactor.com/)
-  * [Lamda School](https://lambdaschool.com/)
   * [Thinkful](https://www.thinkful.com)
   * [Flatiron School](https://flatironschool.com/)
   * [Skillscrush](https://skillcrush.com/)
