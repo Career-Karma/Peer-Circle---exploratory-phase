@@ -3,6 +3,7 @@
 
 # Welcome to Career Karma!
 
+
 **Learning how to code could be tricky.** 
 
 *Our goal is to help you discover YOUR shortest path to a software engineering job.* 
@@ -15,7 +16,6 @@
 
 *We'll connect you to your peers who will keep you accountable, help you manager your schedule and help you if you get stuck.*
 
-One has to know what topics to cover, where to find the resources and then actually follow through on the journey. We want to help guide you through this process. By leveraging the past experiences of peers who have been in your shoes, we are going to help you break in.  
 
 ### How to use this doc:
 
