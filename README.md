@@ -34,10 +34,11 @@ Here is a quick outline of what purpose each phase serves:
 
 **Peer Circles:**
 
-  * Attend the next live conference call with a current bootcamp student/grad
+You will meet other learners in your Peer Circles. A Peer Circle is a group of people who share a common goal of becoming software engineers within 6-12 months. This is your squad! 
 
-  * Browse/watch recordings of past calls:
+Each week you will be invited to attend live conference call with someone who is a current bootcamp student or a gradudate. Please RSVP for your first one here. 
 
+Below please watch previously recorded interviews with guests who share their stories & strategies. Pay specific attention to the questions that your peers are ask as the guest's responses will most likely address the questions you might have as well.
 
 ![jordan](https://user-images.githubusercontent.com/25531425/45239250-75bf1e80-b299-11e8-9606-e1b46a185a0c.jpg)
 
