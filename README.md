@@ -1,7 +1,5 @@
-```
-*"No one should ever learn how to code in isolation"* 
-~Career Karma team
-```
+
+*"No one should ever learn how to code in isolation"* ~Career Karma team
 
 # Welcome to Career Karma!
 
