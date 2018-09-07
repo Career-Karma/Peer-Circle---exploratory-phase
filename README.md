@@ -1,4 +1,6 @@
 
+![image](https://user-images.githubusercontent.com/25531425/45245242-757e4d80-b2b0-11e8-9bf9-feb022694abd.png)
+
 *"You should never learn how to code in isolation"* ~Career Karma team
 
 # Welcome to Career Karma!
