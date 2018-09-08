@@ -27,7 +27,7 @@ Here is a quick outline of what purpose each phase serves:
 
 1. **Phase 1** Introduction to stories of people who came from non-traditional backgrounds and transitioned successfully into software engineering roles. This will help you discover and determine your own unique path.
 
-2. **Phase 2** Introduce you to the skills you need to become a software engineer and how to acquire them. You will learn about various type of coding bootcamps (etc. Part-time, Remote) and which free prep course you can take. 
+2. **Phase 2** Introduce you to the skills you need to become a software engineer and how to acquire them. You will learn about various type of coding bootcamps (etc. Part-time, Remote), financing options and which free prep course you can take. 
 
 3. **Phase 3** By the end of this phase, you will assemble all the puzzle pieces needed to create a roadmap. Now each hour or two a night can go towards getting to your destination. 
 
@@ -142,7 +142,7 @@ Below please watch previously recorded interviews with guests who share their st
 Here is a list of free prep course that you can take: 
 
   * [Lambda School intro to web development](http://smarturl.it/Lambda-School-prep)
-  * [Lets add flatiron here]()
+  * [Flatiron Bootcamp prep](http://smarturl.it/FlatironPrep)
   * [Hack Reactor SSP Program](http://smarturl.it/Hack-Reactor-prep)
   * [Thinkful apply for prep](http://smarturl.it/Thinkful)
   * [App Academy apply for prep](https://www.appacademy.io)
