@@ -1,6 +1,4 @@
 
-![image](https://user-images.githubusercontent.com/25531425/45245242-757e4d80-b2b0-11e8-9bf9-feb022694abd.png)
-
 *"You should never learn how to code in isolation"* ~Career Karma team
 
 # Welcome to Career Karma!
@@ -30,6 +28,8 @@ Here is a quick outline of what purpose each phase serves:
 2. **Phase 2** Introduce you to the skills you need to become a software engineer and how to acquire them. You will learn about various type of coding bootcamps (etc. Part-time, Remote), financing options and which free prep course you can take. 
 
 3. **Phase 3** By the end of this phase, you will assemble all the puzzle pieces needed to create a roadmap. Now each hour or two a night can go towards getting to your destination. 
+
+![bis](https://user-images.githubusercontent.com/25531425/45248567-6c4cab00-b2c7-11e8-8d86-0b31633c2763.jpg)
 
 
 # Phase 1:
