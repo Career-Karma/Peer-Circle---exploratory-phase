@@ -177,7 +177,7 @@ Here are the questions to answer:
 * How much money will you be making?
 
 
-**After you answer these questions, [print and fill out this form](https://docs.google.com/document/d/12jDschLbdBNZ-iuURcfovWrBDOvmBuPJI9TXwj6vddM/edit?usp=sharing), make it legit by putting it up somewhere public. **
+**After you answer these questions, [print and fill out this form](https://docs.google.com/document/d/12jDschLbdBNZ-iuURcfovWrBDOvmBuPJI9TXwj6vddM/edit?usp=sharing), make it legit by putting it up somewhere public.**
 
 ## Lets break in!
 
