@@ -162,3 +162,22 @@ Here is a list of free prep course that you can take:
 ![ryan](https://user-images.githubusercontent.com/25531425/45232126-338ae280-b283-11e8-9967-4e7fd9a0c0bb.jpg)
 
   * [Watch interview with CEO of Treehouse](https://breakingintostartups.com/ryan-carson-ceo-treehouse/)
+
+# Phase 3:
+
+**Set your goals:**
+
+In this section we want you to decide and commit to the path that makes most sense for you.
+
+Here are the questions to answer:
+
+* What is the dream company you want to work at?
+* What city do you want to be in?
+* In how many months will you achieve this goal?
+* How much money will you be making?
+
+
+**After you answer these questions, [print and fill out this form](https://docs.google.com/document/d/12jDschLbdBNZ-iuURcfovWrBDOvmBuPJI9TXwj6vddM/edit?usp=sharing), make it legit by putting it up somewhere public. **
+
+## Lets break in!
+
