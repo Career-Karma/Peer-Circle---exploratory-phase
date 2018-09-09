@@ -105,13 +105,13 @@ Below please watch previously recorded interviews with guests who share their st
 
   **Here are the links to their websites:**
   
-  * [Lamda School](https://lambdaschool.com/)
-  * [App Academy](https://www.appacademy.io/)
-  * [Hack Reactor](https://www.hackreactor.com/)
-  * [Thinkful](https://www.thinkful.com)
-  * [Flatiron School](https://flatironschool.com/)
-  * [Skillscrush](https://skillcrush.com/)
-  * [Fullstack Academy](https://www.fullstackacademy.com/)
+  * [Lamda School](http://smarturl.it/Lambda-About-link)
+  * [App Academy](http://smarturl.it/AppAcademy-About)
+  * [Hack Reactor](http://smarturl.it/HRAbout)
+  * [Thinkful](http://smarturl.it/ThinkfulAbout)
+  * [Flatiron School](http://smarturl.it/Flatiron-about)
+  * [Skillscrush](http://smarturl.it/SkillscrushAbout)
+  * [Fullstack Academy](http://smarturl.it/FullstackAcademy)
 
 
 ### Leverage LinkedIn:
