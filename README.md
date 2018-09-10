@@ -195,5 +195,7 @@ After you answer these questions, **[print and fill out this offer letter](https
 
 Once you fill in the template **print it out and put it somewhere in your home where it's visible** so you can remind yourself of what's on the line.
 
+**[Finally, fill out this form](https://goo.gl/forms/Sh43ICa77xnXsrvI3)** and we will add you to a peer circle that will help you practice & develop skills during the following *Bootcamp Prep* Stage. 
+
 ## Lets break in!
 
