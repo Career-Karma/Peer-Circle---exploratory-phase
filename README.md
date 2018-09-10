@@ -171,7 +171,7 @@ Congrats on making it this far!
 
 This might seem like the easiest section, but it's actually the most important step! We've helped thousands of people break into tech and the ones that succeeded have done this particular step. 
 
-I guess what we're trying to say, *Please make sure you do not skip it!*
+I guess what we're trying to say, **Please make sure you do not skip it!**
 
 The biggest goal for you is to define what your whole path is going to look like. So by now, you should be equipped to answer these questions and have a rough idea what your roadmap would look like in this career transition.
 
@@ -190,7 +190,9 @@ On a piece of paper, please answer the questions below:
 * What are you willing to sacrafice to get to your goal? (ex. going out, time with friends, watching TV, etc)
 
 
-**After you answer these questions, [print and fill out this offer letter](https://docs.google.com/document/d/12jDschLbdBNZ-iuURcfovWrBDOvmBuPJI9TXwj6vddM/edit?usp=sharing). This is the most critical step. Once you fill in the template print it out and put it somewhere in your home where it's visible so you can remind yourself of what's on the line.**
+After you answer these questions, **[print and fill out this offer letter](https://docs.google.com/document/d/12jDschLbdBNZ-iuURcfovWrBDOvmBuPJI9TXwj6vddM/edit?usp=sharing). This is the most critical step.** 
+
+Once you fill in the template **print it out and put it somewhere in your home where it's visible** so you can remind yourself of what's on the line.**
 
 ## Lets break in!
 
