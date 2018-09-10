@@ -189,6 +189,7 @@ On a piece of paper, please answer the questions below:
 
 * What are you willing to sacrafice to get to your goal? (ex. going out, time with friends, watching TV, etc)
 
+**Next Steps:**
 
 After you answer these questions, **[print and fill out this offer letter](https://docs.google.com/document/d/12jDschLbdBNZ-iuURcfovWrBDOvmBuPJI9TXwj6vddM/edit?usp=sharing). This is the most critical step.** 
 
