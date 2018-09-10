@@ -193,7 +193,7 @@ On a piece of paper, please answer the questions below:
 
 After you answer these questions, **[print and fill out this offer letter](https://docs.google.com/document/d/12jDschLbdBNZ-iuURcfovWrBDOvmBuPJI9TXwj6vddM/edit?usp=sharing). This is the most critical step.** 
 
-Once you fill in the template **print it out and put it somewhere in your home where it's visible** so you can remind yourself of what's on the line.**
+Once you fill in the template **print it out and put it somewhere in your home where it's visible** so you can remind yourself of what's on the line.
 
 ## Lets break in!
 
