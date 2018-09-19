@@ -165,7 +165,7 @@ This might seem like the easiest section, but it's actually the most important s
 
 I guess what we're trying to say, **Please make sure you do not skip it!**
 
-We know that things might change and new opportunitites will come up, but the biggest goal for you is for you to define a rough outline of what your whole path is going to look like. So by now, you should be equipped to answer these questions and have a rough idea what your roadmap would look like in this career transition.
+We know that things might change and new opportunities will come up. The biggest goal at this stage, is for you to define a rough outline of what your whole path is going to look like. So by now, you should be equipped to answer these questions and have a rough idea what your roadmap would look like in this career transition.
 
 On a piece of paper, please answer the questions below:
 
