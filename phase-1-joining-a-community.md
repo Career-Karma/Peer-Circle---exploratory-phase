@@ -1,4 +1,4 @@
-# Phase 1: Joining a Community
+# Phase 1: Join a Community
 
 **Peer Circles:**
 
