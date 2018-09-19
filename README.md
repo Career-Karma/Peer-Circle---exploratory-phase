@@ -32,7 +32,3 @@ Here is a quick outline of what purpose each phase serves:
 
 ![Career Karma &amp; Breaking Into Startups Founders](https://user-images.githubusercontent.com/25531425/45248567-6c4cab00-b2c7-11e8-8d86-0b31633c2763.jpg)
 
-
-
-We know that things might change and new opportunities will come up. The biggest goal at this stage, is for you to define a rough outline of what your whole path is going to look like. So by now, you should be equipped to answer these questions and have a rough idea what your roadmap would look like in this career transition.
-
