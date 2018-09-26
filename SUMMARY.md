@@ -8,4 +8,5 @@
 ## Preparing For a Bootcamp
 
 * [Roadmap \(Is not Enough\)](preparing-for-a-bootcamp/roadmap-is-not-enough.md)
+* [Bootcamp Scholarship List 2018](scholarship-list.md)
 
