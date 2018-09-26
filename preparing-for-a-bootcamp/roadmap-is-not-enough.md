@@ -52,7 +52,7 @@ You will begin learning **Fundamentals of JavaScript, HTML & CSS**.
 
 You will serve as each others **Accountability Partners** to ensure you're able to set realistic goals, track your progress and take steps towards your destination!
 
-We broke down this Stage into 4 activities that you will be doing on an going basis. 
+We broke down this Stage into 4 activities that you will be doing on an on-going basis. 
 
 * **Peer Circles** - you will be part of PCs where you'll join your peers in discussions, ask questions and find answers
 * **Pair Programming** - you will be paired with each other on weekly basis to get you into the mode of working with each other
