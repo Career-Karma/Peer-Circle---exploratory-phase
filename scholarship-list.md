@@ -36,18 +36,18 @@
 * **Bloc**
   * [**Scholarship for women**](http://smarturl.it/BlocScholar)
   * [**Diversity scholarship**](http://smarturl.it/BlocDiversity)
-  * [**Women who code scholarship**](http://try.bloc.io/women-who-code-scholarship/)
-  * [**Veterans scholarship**](http://try.bloc.io/dev-bootcamp-for-veterans/)
+  * [**Women who code scholarship**](http://smarturl.it/blocWomenCode)
+  * [**Veterans scholarship**](http://smarturl.it/blocVeteransCode)
 * **Brain Train**
-  * [**Women in development**](https://brainstation.io/scholarships/women-in-development-scholarship)
-  * [**University and college student**](https://brainstation.io/scholarships/university-and-college-scholarship)
-  * [**Entrepreneur scholarship**](https://brainstation.io/scholarships/entrepreneur-in-technology-scholarship)
+  * [**Women in development**](http://smarturl.it/BrainTrainWomen)
+  * [**University and college student**](http://smarturl.it/BrainTrainUniv)
+  * [**Entrepreneur scholarship**](http://smarturl.it/BrainTrainEntrepren)
   * [**Scholarship for non-profit employees**](https://brainstation.io/scholarships/scholarship-for-non-profit-employees)
-  * [**Merit scholarship**](https://brainstation.io/scholarships/merit-scholarship)
+  * [**Merit scholarship**](http://smarturl.it/BrainTrainMerit)
 * **Claim Academy**
-  * [**Women, diversity, veteran**](http://claimacademystl.com/financing/index.html)
+  * [**Women, diversity, veteran**](http://smarturl.it/ClaimAcademy)
 * **Code Fellows**
-  * [**Diversity**](https://www.codefellows.org/diversity-scholarship-fund/)
+  * [**Diversity**](http://smarturl.it/CodeFellows)
 * **Code Platoon**
   * [**Veterans scholarship**](https://www.codeplatoon.org/scholarships/)
   * [**Remote attendance scholarship**](https://www.codeplatoon.org/scholarships/)
