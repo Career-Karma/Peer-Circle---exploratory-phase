@@ -1,6 +1,95 @@
 # Bootcamp Scholarship List 2018
 
-#### _Hey guys, thanks for making it this far! We know that for a lot of people bootcamps can be an expensive option, and sometimes, unfeasible. However, with the recent surge in popularity of bootcamps, large organizations \(including Google and Facebook\) have started sponsoring scholarships to make learning technical skills more accessible to everyone. To help make things simple for those finding a way to finance their bootcamp education, we've put together this list of scholarships various bootcamps offer. This list has been organized by the criteria scholarships require. Click the category on the right of the page that most closely applies to you to find a collection of scholarships. We encourage you to take a look, you likely qualify for several listed below!_  
+#### _Hey guys, thanks for making it this far!_ 
+
+#### _We know that often bootcamps can be an expensive option, and sometimes, unfeasible._ 
+
+#### _Luckily, with the recent surge in popularity of bootcamps, large organizations \(including Google and Facebook\) have started sponsoring scholarships to make learning technical skills more accessible to everyone._ 
+
+#### _To help make things simple for those finding a way to finance their bootcamp education, we've put together this list of scholarships various bootcamps offer._ 
+
+#### _The following list has been organized by the criteria scholarships require. Click the category on the right of the page that most closely applies to you to find a collection of scholarships. We encourage you to take a look, you likely qualify for several listed below!_  
+
+## **Here is a list of scholarships provided by different bootcamps:**
+
+* **App Academy:**
+  * [**Deposit assistance program**](http://smarturl.it/aA-Dap) ****
+* **Hack Reactor:**
+  * [**Full ride scholarship**](http://smarturl.it/HR-full-ride)
+  * [**Diversity Scholarship**](http://smarturl.it/HR-full-ride)
+* **Thinkful:**
+  * [**Diversity, Women scholarships available**](http://smarturl.it/thinkful-scholarship)
+* **Fullstack Academy:**
+  * [**Chicago immersive program**](http://smarturl.it/fullstackScholarship)
+  * [**Remote immersive**](http://smarturl.it/fullstackScholarship)
+  * [**Gracehopper program**](http://smarturl.it/GracehopperScholar)
+  * [**Edie Windsor coding scholarship \(lesbians who tech\)**](http://smarturl.it/LesbiansWhoTech)
+* **Flatiron School:**
+  * [**Women take tech**](http://smarturl.it/FlatironScholar)
+  * [**Merit scholarship**](http://smarturl.it/FlatironMeritScholar)
+* **Skills fund:**
+  * [**apply here**](http://smarturl.it/SkillsFund)
+* **NYC data science academy**
+  * [**Deep learning scholarship for women \(use code "DLFORWOMEN"\)**](http://smarturl.it/NycDataScience)
+* **Bitmaker**
+  * [**Grace Hopper scholarship for women**](http://smarturl.it/Bitmaker)
+* **Bloc**
+  * [**Scholarship for women**](http://smarturl.it/BlocScholar)
+  * [**Diversity scholarship**](http://smarturl.it/BlocDiversity)
+  * [**Women who code scholarship**](http://try.bloc.io/women-who-code-scholarship/)
+  * [**Veterans scholarship**](http://try.bloc.io/dev-bootcamp-for-veterans/)
+* **Brain Train**
+  * [**Women in development**](https://brainstation.io/scholarships/women-in-development-scholarship)
+  * [**University and college student**](https://brainstation.io/scholarships/university-and-college-scholarship)
+  * [**Entrepreneur scholarship**](https://brainstation.io/scholarships/entrepreneur-in-technology-scholarship)
+  * [**Scholarship for non-profit employees**](https://brainstation.io/scholarships/scholarship-for-non-profit-employees)
+  * [**Merit scholarship**](https://brainstation.io/scholarships/merit-scholarship)
+* **Claim Academy**
+  * [**Women, diversity, veteran**](http://claimacademystl.com/financing/index.html)
+* **Code Fellows**
+  * [**Diversity**](https://www.codefellows.org/diversity-scholarship-fund/)
+* **Code Platoon**
+  * [**Veterans scholarship**](https://www.codeplatoon.org/scholarships/)
+  * [**Remote attendance scholarship**](https://www.codeplatoon.org/scholarships/)
+  * [**Women in tech**](https://www.codeplatoon.org/scholarships/)
+  * [**Transgender Veterans scholarship**](https://www.codeplatoon.org/scholarships/)
+* **Coder Camps**
+  * [**Women, veterans, LGBTQ, first responders, diversity**](https://codeup.com/scholarships/)
+* **Coding Dojo**
+  * [**Women, military, diversity**](https://www.codingdojo.com/onsite-boot-camp#scholarships)
+* **Coding Nomads**
+  * [**Women, diversity, military, local \(mexico and bali\), vision**](https://codingnomads.co/scholarships/)
+* **Coding Temple**
+  * [**Women, college student, veteran, switchup**](https://www.switchup.org/bootcamps/coding-temple)
+* **Firehose**
+  * [**Merit and diversity**](https://thefirehoseproject.com/scholarships)
+* **Galvanize**
+  * [**Diversity**](https://www.galvanize.com/tuition-assistance)
+* **Grand Circus**
+  * [**Veterans, diversity, LGBTQ**](https://www.grandcircus.co/bootcamps/tuition-and-scholarships/)
+* **Healio Training**
+  * [**Veterans, women**](https://heliotraining.com/scholarships/)
+* **LEARN Academy**
+  * [**Low income, diversity**](https://www.learnacademy.org/blog/learn-more-about-our-code-school-scholarships)
+* **Level Bootcamp**
+  * [**Women**](https://pages.northeastern.edu/women-scholarship.html)
+* **Learning Fuze**
+  * [**Women and veterans**](https://learningfuze.com/faq)
+* **Metis**
+  * [**Veterans, women, LGBTQ, diversity**](https://www.thisismetis.com/data-science-bootcamps)
+* **Redwood Code Academy**
+  * [**Women, veterans, diversity**](https://redwoodcodeacademy.com/scholarships/)
+* **Tech Talent South**
+  * [**Women**](http://info.techtalentsouth.com/wit-scholarship)
+  * [**Diversity, veterans**](http://info.techtalentsouth.com/diversity-scholarship)
+* **Software Guild**
+  * [**Women, veterans, diversity**](https://www.thesoftwareguild.com/tuition-financing/)
+* **Ubiquim**
+  * [**Women**](https://www.ubiqum.com/women-who-code/)
+* **We Can Code It**
+  * [**Diversity**](https://wecancodeit.org/pricing/)
+* **Wyncode**
+  * [**Women**](https://wyncode.co/women-in-tech-scholarship/)
 
 ## Scholarships for Women:
 
@@ -50,7 +139,7 @@
 
   In addition, The Software Guild offers a $2,000 discount on tuition to graduates from Software Guild partner schools
 
-## Scholarships for Diversity:
+## Scholarships for Under-represented groups:
 
 * [**App Academy**](https://www.appacademy.io/diversity) **-** App Academy offers deferred tuition to all accepted students. This means that you only pay App Academy if you get a job after graduating. However, App Academy requires a $5,000 deposit upfront and then the remaining amount after job begins. To assist with the initial deposit, App Academy has the Deposit Assistance Program \(DAP\) which awards 5 students a reduced upfront deposit of $2,000
 * [**Hack Reactor**](https://www.hackreactor.com/hr-scholarship) **-** As part of a Hack Reactor initiative to increase the number of under represented groups in tech they are providing 1 full tuition scholarship and one half tuition scholarship 
