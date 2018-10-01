@@ -71,7 +71,7 @@ Tip 2: Do not compare yourself, your learning pace or accomplishments to your pe
 
 Success on this journey is a factor of how much **Time** you spent practicing and doing the 4 activities above. 
 
-**We've helped hundredths of people complete this journey. Before you even know it, you will become a software engineer!**
+**We've helped hundreds of people complete this journey. Before you even know it, you will become a software engineer!**
 
 Just remember: _a black belt is a white belt who didn't stop!_
 
