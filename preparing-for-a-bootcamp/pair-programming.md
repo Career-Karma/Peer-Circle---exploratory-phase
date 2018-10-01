@@ -59,7 +59,7 @@ To help you get started, once you're assigned a pair, we've put together challen
 
 We realize that in most cases, you will be Pair Programming _**'Virtually'**_ so we designed the experience that can be done completely remote. 
 
-Here are the 3 sample challenges you can choose from: 
+Here are the **3 sample challenges** you can choose from: 
 
 1. [Build HTML & CSS Page](https://codesandbox.io/s/xjnpr97v04) \(Easy\)
 2. [HTML & CSS Animations](https://codesandbox.io/s/m46r81ykqx) \(Medium\)
@@ -111,7 +111,7 @@ You will not just learn more about programming, but you will learn a lot about y
 
 Here are three reasons we're excited. 
 
-**The First Reason**: You will get to use CodeSanbox which is a tool that will allow you to type your code in your browser and your partners screen we'll update with each key stroke. \(And vise-versa\) 
+**The First Reason**: You will get to use [CodeSanbox](https://docs.google.com/document/d/1N3Iv3C3SFye1hrGRR81Fj51S6tfRe6bPHtRAb-x3nT0/edit?usp=sharing) which is a tool that will allow you to type your code in your browser and your partners screen we'll update with each key stroke. \(And vise-versa\) 
 
 This way you'll truly have a 'Virtual Pair Programming' environment and you'll be set-up to begin working in no time. 
 
@@ -127,7 +127,7 @@ As you store you're code, it also tracks your progress and your activity.
 
 As you practice and become a better developer, you're account gets more commits. 
 
-This will eventually help you stand-out when you're applying for jobs in a few months from now!!!
+This will eventually help you **stand-out when you're applying for jobs** in a few months from now!!!
 
 \(Here are the [instructions on how to create a Github account](https://docs.google.com/document/d/1oBhKoEanwGkfyqHwXlybkTEFdSX_f0xFRMffMuQ6Us8/edit?usp=sharing) if you don't already have one\) 
 
