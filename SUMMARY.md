@@ -8,5 +8,9 @@
 ## Preparing For a Bootcamp
 
 * [Roadmap \(Is not Enough\)](preparing-for-a-bootcamp/roadmap-is-not-enough.md)
+* [Pair Programming](preparing-for-a-bootcamp/pair-programming.md)
+* [Accountability Partners](preparing-for-a-bootcamp/accountability-partners.md)
+* [Learn Fundamentals](preparing-for-a-bootcamp/learn-fundamentals.md)
+* [Getting Unstuck](preparing-for-a-bootcamp/getting-unstuck.md)
 * [Bootcamp Scholarship List 2018](scholarship-list.md)
 
