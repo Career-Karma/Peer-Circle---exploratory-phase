@@ -1,14 +1,18 @@
 # Bootcamp Scholarship List 2018
 
-#### _Hey guys, thanks for making it this far!_ 
+We know that often bootcamps can be an expensive option, and sometimes, unfeasible. 
 
-#### _We know that often bootcamps can be an expensive option, and sometimes, unfeasible._ 
+Luckily, with the recent surge in popularity of bootcamps, 
 
-#### _Luckily, with the recent surge in popularity of bootcamps, large organizations \(including Google and Facebook\) have started sponsoring scholarships to make learning technical skills more accessible to everyone._ 
+organizations \(including Optimizely, Adobe and Facebook\) began sponsoring scholarships 
 
-#### _To help make things simple for those finding a way to finance their bootcamp education, we've put together this list of scholarships various bootcamps offer._ 
+to make learning technical skills more accessible to everyone. 
 
-#### _The following list has been organized by the criteria scholarships require. Click the category on the right of the page that most closely applies to you to find a collection of scholarships. We encourage you to take a look, you likely qualify for several listed below!_  
+**To help make things simple,** 
+
+we've put together this list of scholarships from various bootcamps. 
+
+Feel free to click through the quick links at the top of the page or on the right to find a scholarship for you . 
 
 ## **Here is a list of scholarships provided by different bootcamps:**
 
