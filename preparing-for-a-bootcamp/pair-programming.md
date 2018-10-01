@@ -2,7 +2,7 @@
 
 ## What is Pair Programing?
 
-Pair Programing is a practice of... you guest it. Programming in pairs! 
+Pair Programing is a practice of... you guessed it. Programming in pairs! 
 
 But there is a lot more. 
 
