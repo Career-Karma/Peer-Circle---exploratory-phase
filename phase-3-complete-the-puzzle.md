@@ -8,16 +8,20 @@ This might seem like the easiest section, but it's actually the most important s
 
 I guess what we're trying to say, **Please make sure you do not skip it!**
 
-We know that things might change and new opportunities will come up. The biggest goal at this stage, is for you to define a rough outline of what your whole path is going to look like. So by now, you should be equipped to answer these questions and have a rough idea what your roadmap would look like in this career transition.
+We know that things might change and new opportunities will come up. 
+
+The biggest goal at this stage, is **for you to define a rough outline of what your whole path is going to look like**. 
+
+By now, you should be equipped to answer these questions and have a rough idea what your roadmap would look like in this career transition.
 
 On a piece of paper, please answer the questions below:
 
 * What is the dream company you want to work at? \(try to be as descriptive as possible\)
 * What city do you want to be in?
-* Are you planning on doing a bootcamp or not? \(etc. part time, fulltime, online or in-person\)
+* Are you planning on doing a bootcamp or not? \(etc. part-time, full-time, online or in-person\)
 * In how many months are you aiming to achieve this goal by?
 * How much money do you want to making as a software engineer to live a comfortable lifestyle?
-* What are you willing to sacrafice to get to your goal? \(ex. going out, time with friends, watching TV, etc\)
+* What are you willing to sacrifice to get to your goal? \(ex. going out, time with friends, watching TV, etc\)
 
 #### Next Steps:
 
