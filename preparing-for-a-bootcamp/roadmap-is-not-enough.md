@@ -46,7 +46,7 @@ They know what it is like to be learning how to code on top of their full-time j
 
 In this section, you will begin coding and become a stronger engineer. 
 
-You will learn about **Pair Programing** and you'll find out what's it takes to work on a team of engineers. 
+You will learn about **Pair Programing** and you'll find out what it takes to work on a team of engineers. 
 
 You will begin learning **Fundamentals of JavaScript, HTML & CSS**. 
 
