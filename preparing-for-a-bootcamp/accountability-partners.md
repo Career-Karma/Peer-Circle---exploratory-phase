@@ -65,7 +65,7 @@ At the end of the week, we encourage you to have a sync up where you discuss wit
 
 We know things come up.
 
-And not everyone will hits their weekly goal  
+And not everyone will hit their weekly goal  
 
 {% hint style="info" %}
 If you set stretch goals, you will miss some of them. We encourage you to set goals that challenge you vs. goals that you know are within your reach. 

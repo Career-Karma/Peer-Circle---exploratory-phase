@@ -14,7 +14,7 @@ And a chance for you to articulate and share your approach with your partner.
 
 It's also a great way to see if you really understand a programming concept. 
 
-There is no better way to see if you know a concept, but to try teaching it to somebody else. 
+There is no better way to see if you know a concept, but to then try teaching it to somebody else. 
 
 {% hint style="info" %}
 More often then not, by teaching others, you push yourself to think of examples and analogies that help you formulate and solidify your mental model around a coding concept
