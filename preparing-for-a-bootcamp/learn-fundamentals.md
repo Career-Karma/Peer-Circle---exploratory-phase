@@ -54,7 +54,7 @@ Once you've done that, redo the problem from memory.
 
 To help you learn core programming concepts we've put together a few resources that you can find below. 
 
-And of course, don't forget to take advantage of the Pair Programming sessions!. 
+And of course, don't forget to **take advantage of the Pair Programming sessions!** 
 
 ## **Level 1: JavaScript fundamentals**
 
