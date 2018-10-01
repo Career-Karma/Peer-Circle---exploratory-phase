@@ -26,9 +26,7 @@ Here is a quick outline of what purpose each phase serves:
 2. **Phase 2** Introduce you to the skills you need to become a software engineer and how to acquire them. You will learn about various type of coding bootcamps \(etc. Part-time, Remote\), financing options and which free prep course you can take.
 3. **Phase 3** By the end of this phase, you will assemble all the puzzle pieces needed to create a roadmap. Now each hour or two a night can go towards getting to your destination.
 
-
-
-
+\(**Note:** If you would like to join CK's Peer Circles, you noticed a typo or would like to contribute to this document, reach out to Timur directly[ timur@careerkarma.io](mailto:timur@careerkarma.io) \) 
 
 ![Career Karma &amp; Breaking Into Startups Founders](https://user-images.githubusercontent.com/25531425/45248567-6c4cab00-b2c7-11e8-8d86-0b31633c2763.jpg)
 
