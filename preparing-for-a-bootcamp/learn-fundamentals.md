@@ -1,6 +1,60 @@
 # Learn Fundamentals
 
+As you are working towards becoming a Software Engineer...
 
+The most important skill you will learn is not going to be learning how to code. 
+
+It's not going to be mastering a programming language. 
+
+It's not going to be how to build apps. 
+
+Through this process, the most important skill you will gain is _**Learning How To Learn**_**.** 
+
+The point of the tutorial below is to give you a scaffold to start practicing. 
+
+**However, don't forget to ask yourself questions around your own learning style.** 
+
+Do you learn better by reading documentation or by watching videos? 
+
+Do you learn better by implementing projects or by doing pair programming challenges? 
+
+These are all critical questions for you to answer. 
+
+Once you do discover your preferred learning style, everything will click into place. 
+
+## How to Start Learning: 
+
+If you're just starting out, our advice is to begin by going through easy HTML & CSS tutorials. 
+
+After a few weeks, we _highly_ suggest you **begin learning JavaScript**. 
+
+There is a lot of debate on what language you should start learning first. 
+
+{% hint style="info" %}
+We recommend learning JavaScript as every single modern website on the web uses HTML, CSS & JavaScript!
+{% endhint %}
+
+ This will ensure that whichever path you choose, you'll be have a powerful tool in your toolbox. 
+
+After you learn the basic language syntax, about functions, arrays and objects ...
+
+**Please Stop!!!**
+
+At this point, the best next step is to put your knowledge to a test. 
+
+It will be challenging to go from doing tutorials to actually solving basic Algorithm questions using JavaScript. 
+
+Most of the problems will see difficult and you will have no idea what to do. 
+
+Try to power through those moments, by studying solutions line-by-line. 
+
+Writing out in plain English what the function is doing.
+
+Once you've done that, redo the problem from memory.
+
+To help you learn core programming concepts we've put together a few resources that you can find below. 
+
+And of course, don't forget to take advantage of the Pair Programming sessions!. 
 
 ## **Level 1: JavaScript fundamentals**
 
@@ -30,21 +84,7 @@
 * Stephen Grider Udemy Course - Modern React with Redux
   * Great course for the fundamentals of React and Redux
 
-## Level 4: React/Redux
 
-* Do [this](http://frontend.turing.io/projects/weather-forecast.html) project to get comfortable using React
-* Do [this](http://frontend.turing.io/projects/swapi-box.html) project for more practice with React
-* Stephen Grider Udemy Course - Advanced React and Redux
-* Do [this](https://github.com/turingschool-examples/movie-tracker) project to practice advanced topics in React/Redux
 
-## Level 5: React/Redux/Node/Express
 
-* Do [this](https://github.com/LambdaSchool/front-end-project-week) project for more practice with React/Redux
-* Do [these](https://github.com/LambdaSchool?utf8=%E2%9C%93&q=node&type=&language=) exercises to learn Node.js for backend
-
-## Level 6: Full-stack JavaScript
-
-* Do [this](https://www.udemy.com/the-complete-developers-guide-to-mongodb/learn/v4/overview) tutorial and [these](https://github.com/LambdaSchool?utf8=%E2%9C%93&q=mongo&type=&language=) exercises to learn how to interact with databases in full-stack JavaScript
-* Full-stack project
-  * Come up with a project you’re interested in that showcases everything you learned!
 
