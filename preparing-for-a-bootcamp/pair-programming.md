@@ -43,13 +43,15 @@ Here is the overview of the process to begin Pair Programing:
 
 We recommend that before attempting to Pair Program you spend about 5-10 hours familiarizing yourself with basic HTML, CSS or JavaScript fundamentals to get ready. 
 
-Free HTML course on Codecademy 
+1. [Free HTML course on Codecademy ](https://www.codecademy.com/learn/learn-html?utm_source=careerkarma&utm_param=careerkarma)
 
-Free CSS course on Codecademy
+2. [Free CSS course on Codecademy](https://www.codecademy.com/learn/learn-css?utm_source=careerkarma&utm_param=careerkarma)
 
-Free JavaScript course on Codecademy
+3. [Learn HTML, CSS & JavaScript on the go with SoloLearn](https://www.sololearn.com?utm_source=careerkarma&utm_params=careerkarma)
 
-Free JavaScript course on Udacity
+4.[ Learn JavaScript from Team Treehouse](https://bit.ly/2gFMjGH) 
+
+5. [Free JavaScript course on Udacity](https://www.udacity.com/course/intro-to-javascript--ud803?utm_source=careerkarma)
 
 ## Selecting a Challenge
 
