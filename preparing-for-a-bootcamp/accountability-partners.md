@@ -59,17 +59,29 @@ When you get connected to your Accountability Partner we advise you follow the f
 
 ## Weekly Outcomes: 
 
-At the end of the week, we encourage you to have a sync up where you discuss with each other what you accomplished, what went well and what didn't go well. 
+At the end of the week, we encourage you to have a sync up where you discuss with each other what you accomplished that week, what went well and what didn't go well. 
 
 **Be transparent!**
 
 We know things come up.
 
+And not everyone will hits their weekly goal  
+
 {% hint style="info" %}
-If you set stretch goals, you will miss some of them. We encourage you to set goals that challenge you vs. goals that are within an easy reach. 
+If you set stretch goals, you will miss some of them. We encourage you to set goals that challenge you vs. goals that you know are within your reach. 
 {% endhint %}
 
-And not everyone will hits their weekly goal.
+Don't forget tho. 
+
+You are an Accountability Partner to each other.  
+
+So you're expected to push each other to set goals and stick with them. 
+
+If you see you Partner struggling, suggest changing their strategy. 
+
+If you see them not doing what they should be doing, **Tell Them!**
+
+This feedback will be crucial as they'll be doing the same for you!
 
 
 
