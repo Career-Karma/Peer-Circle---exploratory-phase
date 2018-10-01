@@ -109,11 +109,13 @@ You will not just learn more about programming, but you will learn a lot about y
 
 Here are three reasons we're excited. 
 
-**The First**: You will get to use CodeSanbox which is a tool that will allow you to type your code in your browser and your partners screen we'll update with each key stroke. \(And vise-versa\) 
+**The First Reason**: You will get to use CodeSanbox which is a tool that will allow you to type your code in your browser and your partners screen we'll update with each key stroke. \(And vise-versa\) 
 
 This way you'll truly have a 'Virtual Pair Programming' environment and you'll be set-up to begin working in no time. 
 
-**The Second**: You will create a Github account and begin building your reputation as a software engineer. 
+**The Second Reason**: Your pair programing projects will be seamlessly stored on Github. 
+
+Which mean, you can create a Github account and begin building your reputation as a software engineer. 
 
 Github is a place where most engineering teams store their code. 
 
@@ -127,17 +129,29 @@ This will eventually help you stand-out when you're applying for jobs in a few m
 
 \(Here are the [instructions on how to create a Github account](https://docs.google.com/document/d/1oBhKoEanwGkfyqHwXlybkTEFdSX_f0xFRMffMuQ6Us8/edit?usp=sharing) if you don't already have one\) 
 
+**The Third Reason:** You will be learning, teaching and practicing coding challenges with a friend.
+
+We know you might be paired with someone who know a little bit more or less than you. 
+
+That's Ok!
+
+Use it as an opportunity to see how someone else approaches their unique way of solving a problem. 
+
+A the end of the Pair Programing session we'll be asking each pair to post screen shots of the deliverable and feedback!
+
+This will be a great way to build up your reputation in your peer circle & KARMA!
+
 ## Solutions
 
 Proceed with warning :\) 
 
 Here are the solutions to the coding challenges. 
 
-Build HTML & CSS Page - [Solution](https://codesandbox.io/s/mokjnyqx98)
+**Build HTML & CSS Page** - [Solution](https://codesandbox.io/s/mokjnyqx98)
 
-HTML & CSS Animations - [Solution](https://codesandbox.io/s/nkzko850v4)
+**HTML & CSS Animations** - [Solution](https://codesandbox.io/s/nkzko850v4)
 
-Javascript Intro toy problem - [Solution](https://codesandbox.io/s/9ov7j0k48o)
+**Javascript Intro toy problem** - [Solution](https://codesandbox.io/s/9ov7j0k48o)
 
 Remember to take a screenshot or the url to your peer circle group!
 

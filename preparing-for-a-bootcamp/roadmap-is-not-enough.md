@@ -66,7 +66,7 @@ We realize each one of you has a unique learning style.
 Although all of you have a goal of becoming software engineers, we realize you all come from different backgrounds and have different responsibilities & obligations. 
 
 {% hint style="info" %}
-Tip 2: Do not compare yourselves, your learning pace or accomplishments to your peers. 
+Tip 2: Do not compare yourself, your learning pace or accomplishments to your peers. 
 {% endhint %}
 
 Success on this journey is a factor of how much **Time** you spent practicing and doing the 4 activities above. 
