@@ -57,7 +57,7 @@ To help you get started, once you're assigned a pair, we've put together challen
 
 We realize that in most cases, you will be Pair Programming _**'Virtually'**_ so we designed the experience that can be done completely remote. 
 
-Here are the 2 sample challenges you can choose from: 
+Here are the 3 sample challenges you can choose from: 
 
 1. [Build HTML & CSS Page](https://codesandbox.io/s/xjnpr97v04) \(Easy\)
 2. [HTML & CSS Animations](https://codesandbox.io/s/m46r81ykqx) \(Medium\)
