@@ -26,7 +26,7 @@ In most cases, it's not even going to be your family.
 Uncaught TypeError: undefined is not a function
 ```
 
-\(We love family and support, but they will not help you when your function is returning a result that's undefined\) 
+\(We love family and support, but unless they are software engineers already they prob will not help you when your function is returning a result that's undefined\) 
 
 {% hint style="success" %}
 **The people who will help you get through this journey and technical challenges are going to be your PEERS.** 
