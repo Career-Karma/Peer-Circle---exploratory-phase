@@ -20,7 +20,7 @@ Someone who understands what you're going through.
 
 Because they are going through it themselves. 
 
-That's why when you join a CK peer circle you will be connected to an accountability partner who will help 
+That's why when you join a CK peer circle you will be connected to an accountability partner who will help push you along the way.
 
 ## How It Works:
 
@@ -57,7 +57,7 @@ When you get connected to your Accountability Partner we advise you follow the f
 3. Attend 2 Pair Programming sessions 
 4. Solve 5 Javascript coding challenges 
 
-## Weekly Outcomes: 
+## Weekly Sync: 
 
 At the end of the week, we encourage you to have a sync up where you discuss with each other what you accomplished that week, what went well and what didn't go well. 
 
@@ -71,17 +71,39 @@ And not everyone will hits their weekly goal
 If you set stretch goals, you will miss some of them. We encourage you to set goals that challenge you vs. goals that you know are within your reach. 
 {% endhint %}
 
-Don't forget tho. 
+Don't forget tho... 
 
-You are an Accountability Partner to each other.  
+They are an AP to you, and you are an Accountability Partner to them.  
 
-So you're expected to push each other to set goals and stick with them. 
+**You're expected to push each other!**
 
-If you see you Partner struggling, suggest changing their strategy. 
+Push each other to set goals and stick with it! 
 
-If you see them not doing what they should be doing, **Tell Them!**
+If you see you Partner struggling... 
 
-This feedback will be crucial as they'll be doing the same for you!
+brainstorm another approach,
+
+suggest a strategy that has worked for you, 
+
+discuss who else within the CK community might be able to help.  
+
+**At the same time...**
+
+If you're partner is being lazy...
+
+Not spending time on hitting their weekly goals, 
+
+not doing what they are suppose to...
+
+**Tell Them!**
+
+We don't expect you to be this brutally honest from the beginning. 
+
+As you develop a relationship with your partner, this type of transparency and accountability will help both of you get to your goals faster.  
+
+In the long run, this feedback will be crucial for both of you!
+
+They'll will appreciate your honesty and they'll be doing the same for you!
 
 
 
