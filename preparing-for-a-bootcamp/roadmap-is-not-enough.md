@@ -10,7 +10,7 @@ If you followed the steps in the Getting Started section, you now even have a ro
 an _**Inspiring Stories** &  **Roadmap**_ alone, are not going to be enough for you to reach your goal.  
 {% endhint %}
 
-This is a going to be a journey! 
+This is going to be a journey! 
 
 And on any journey, you're going to run into obstacles & challenges. 
 
