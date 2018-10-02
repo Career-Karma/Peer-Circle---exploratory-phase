@@ -111,7 +111,7 @@ You will not just learn more about programming, but you will learn a lot about y
 
 Here are three reasons we're excited. 
 
-**The First Reason**: You will get to use [CodeSanbox](https://docs.google.com/document/d/1N3Iv3C3SFye1hrGRR81Fj51S6tfRe6bPHtRAb-x3nT0/edit?usp=sharing) which is a tool that will allow you to type your code in your browser and your partners screen we'll update with each key stroke. \(And vise-versa\) 
+**The First Reason**: You will get to use [CodeSandbox](https://docs.google.com/document/d/1N3Iv3C3SFye1hrGRR81Fj51S6tfRe6bPHtRAb-x3nT0/edit?usp=sharing) which is a tool that will allow you to type your code in your browser and your partners screen we'll update with each key stroke. \(And vise-versa\) 
 
 This way you'll truly have a 'Virtual Pair Programming' environment and you'll be set-up to begin working in no time. 
 
