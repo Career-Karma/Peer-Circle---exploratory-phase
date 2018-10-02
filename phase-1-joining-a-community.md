@@ -4,9 +4,9 @@
 
 You will meet other learners in your Peer Circles. A Peer Circle is a group of people who share a common goal of becoming software engineers within 6-12 months. This is your squad!
 
-Each week you will be invited to attend live conference call with someone who is a current bootcamp student or a gradudate. Please RSVP for your first one here.
+Each week you will be invited to attend a live conference call with someone who is a current bootcamp student or a graduate. Please RSVP for your first one here.
 
-Below please watch previously recorded interviews with guests who share their stories & strategies. Pay specific attention to the questions that your peers are ask as the guest's responses will most likely address the questions you might have as well.
+Please watch previously recorded interviews with guest speakers who share their stories and strategies below. Pay close attention to the questions that your peers are asking and the guest speaker's responses for live feedback.
 
 [Jordan Jackson - Transitioned from the Airforce to a Software Engineer at Twitter](https://drive.google.com/file/d/1j87DSymAxhZMLzSopEBHydgHK6T_cXxc/view?usp=sharing)
 
@@ -22,7 +22,7 @@ Below please watch previously recorded interviews with guests who share their st
 
 **Success stories:**
 
-[How a professional poker player, with no college degree, got a job at Airbnb as a software engineer](https://breakingintostartups.com/haseeq-qureshi-software-engineer-professional-poker-player/)
+[Teacher who became a Software Engineer at Mailchimp ](https://breakingintostartups.com/haseeq-qureshi-software-engineer-professional-poker-player/)
 
 ![                               Iris Nevins](.gitbook/assets/iris-nevins.png)
 
@@ -40,7 +40,7 @@ Below please watch previously recorded interviews with guests who share their st
 
 **What you should of learned:**
 
-* Learn how other peers successfully transitioned to software engineering roles
-* Know about several paths that you could take to become a software engineer
-* Start JavaScript intro
+* How other peers successfully transitioned to software engineering roles
+* What paths you can take to become a software engineer
+* Introduction to JavaScript 
 
