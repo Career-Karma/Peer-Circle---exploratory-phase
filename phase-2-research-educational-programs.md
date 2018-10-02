@@ -6,10 +6,10 @@
 
 #### Factors to consider when choosing a bootcamp:
 
-* **Time commitment** - Bootcamps typically offer in person full time, in person part time, online full time, online part time, and self paced programs.
+* **Time commitment** - Bootcamps typically offer in person full-time, in person part-time, online full-time, online part-time, and self paced programs
 * **Locations** - Bootcamps are located in various cities across the US and typically offer online options as well
 * **Length of bootcamp** - Bootcamps can range from 3 months - 1 year and some offer self-paced options
-* **Tuition** - Bootcamps have various ways of helping students finance their program. Some bootcamps don't charge any tuition until they help you get a job \(known as deffered tuition or an income sharing agreement\)
+* **Tuition** - Bootcamps have various ways of helping students finance their program. Some bootcamps do not charge tuition until they help you get a job \(known as deferred tuition or an income sharing agreement\)
 
 **Refer to the chart below to help you shortlist some bootcamps to consider:**
 
@@ -17,7 +17,7 @@
 
 #### Research top 2-3 bootcamps:
 
-Based on the information above, select 2-3 bootcamps that fit your schedule, financing and learning style and explore further. The goal is to learn more about the various options and formats available to you.
+Based on the information above, select 2-3 bootcamps that fit your schedule, financing and learning style to explore further. The goal is to learn more about the various options and formats available to you.
 
 **Here are the links to their websites:**
 
@@ -32,22 +32,22 @@ Based on the information above, select 2-3 bootcamps that fit your schedule, fin
 #### Leverage LinkedIn:
 
 * **We encourage you to look up alumni of the different bootcamps on LinkedIn to see where they're working**
-  * Search the bootcamp by name on linkedIn, click see alumni, filter by where they work
-  * For each of your choices, find 1-2 people and reach out to them via linkedin
+  * Search the bootcamp by name on LinkedIn, click _see alumni,_ filter by where they work
+  * For each of your choices, find 1-2 people and reach out to them via Linkedin
 
 #### Leverage the peer circle:
 
 Everyone in your peer circle is also working to understand which path best suits their unique situations. You might have discovered new or you may have some hesitations.
 
-* Share something you didn't know before that you learned with your peer circle.
-* Share one of your hesitations with your peers and hear them out.
+* Share something you didn't know before that you learned with your peer circle
+* Share one of your hesitations with your peers and hear them out
 * Chances are someone has had the EXACT SAME concerns and they might help you see a different perspective. Connect with your peers!
 
 #### Pick your top bootcamp choice and get started with prep material:
 
 At this stage we suggest you pick a free bootcamp prep course to take so you can keep learning in a structured manner.
 
-Altough there are a lot of tutorials on Udemy or on Google, we belive the prep courses were designed to help someone get started and will ensure you're working towards your end goal.
+Although there are a lot of tutorials on Udemy and Google, we believe the prep courses were designed to help someone get started and will ensure you're working towards your end goal.
 
 The mistake we see a lot of people make is taking various tutorials without knowing exactly how that translates into acquiring the needed skills to find a job or get accepted into a coding program.
 
