@@ -1,18 +1,18 @@
 # Bootcamp Scholarship List 2018
 
-We know that often bootcamps can be an expensive option, and sometimes, unfeasible. 
+_**We know that often bootcamps can be an expensive option, and sometimes, unfeasible.**_ 
 
-Luckily, with the recent surge in popularity of bootcamps, 
+_**Luckily, with the recent surge in popularity of bootcamps,**_ 
 
-organizations \(including Optimizely, Adobe and Facebook\) began sponsoring scholarships 
+_**organizations \(including Optimizely, Adobe and Facebook\) began sponsoring scholarships**_ 
 
-to make learning technical skills more accessible to everyone. 
+_**to make learning technical skills more accessible to everyone.**_ 
 
-**To help make things simple,** 
+_**To help make things simple,**_ 
 
-we've put together this list of scholarships from various bootcamps. 
+_**we've put together this list of scholarships from various bootcamps.**_ 
 
-Feel free to click through the quick links at the top of the page or on the right to find a scholarship for you . 
+_**Feel free to click through the quick links at the top of the page or on the right to find a scholarship for you .**_ 
 
 ## **Here is a list of scholarships provided by different bootcamps:**
 
@@ -53,12 +53,12 @@ Feel free to click through the quick links at the top of the page or on the righ
 * **Code Fellows**
   * [**Diversity**](http://smarturl.it/CodeFellows)
 * **Code Platoon**
-  * [**Veterans scholarship**](https://www.codeplatoon.org/scholarships/)
-  * [**Remote attendance scholarship**](https://www.codeplatoon.org/scholarships/)
-  * [**Women in tech**](https://www.codeplatoon.org/scholarships/)
+  * [**Veterans scholarship**](https://www.codeplatoon.org/scholarships/?utm_source=CareerKarma)
+  * [**Remote attendance scholarship**](https://www.codeplatoon.org/scholarships/?utm_source=CareerKarma)
+  * [**Women in tech**](https://www.codeplatoon.org/scholarships/?utm_source=CareerKarma)
   * [**Transgender Veterans scholarship**](https://www.codeplatoon.org/scholarships/)
 * **Coder Camps**
-  * [**Women, veterans, LGBTQ, first responders, diversity**](https://codeup.com/scholarships/)
+  * [**Women, veterans, LGBTQ, first responders, diversity**](https://www.codingdojo.com/onsite-boot-camp#scholarships/?utm_source=CareerKarma)
 * **Coding Dojo**
   * [**Women, military, diversity**](https://www.codingdojo.com/onsite-boot-camp#scholarships)
 * **Coding Nomads**
@@ -66,34 +66,34 @@ Feel free to click through the quick links at the top of the page or on the righ
 * **Coding Temple**
   * [**Women, college student, veteran, switchup**](https://www.switchup.org/bootcamps/coding-temple)
 * **Firehose**
-  * [**Merit and diversity**](https://thefirehoseproject.com/scholarships)
+  * [**Merit and diversity**](https://thefirehoseproject.com/scholarships/?utm_source=%22CareerKarma%22)
 * **Galvanize**
-  * [**Diversity**](https://www.galvanize.com/tuition-assistance)
+  * [**Diversity**](https://www.galvanize.com/tuition-assistance?utm_source=%22CareerKarma%22)
 * **Grand Circus**
-  * [**Veterans, diversity, LGBTQ**](https://www.grandcircus.co/bootcamps/tuition-and-scholarships/)
+  * [**Veterans, diversity, LGBTQ**](https://www.grandcircus.co/bootcamps/tuition-and-scholarships/?utm_source=CareerKarma)
 * **Healio Training**
-  * [**Veterans, women**](https://heliotraining.com/scholarships/)
+  * [**Veterans, women**](https://heliotraining.com/scholarships/?utm_source=CareerKarma)
 * **LEARN Academy**
-  * [**Low income, diversity**](https://www.learnacademy.org/blog/learn-more-about-our-code-school-scholarships)
+  * [**Low income, diversity**](https://www.learnacademy.org/blog/learn-more-about-our-code-school-scholarships/?utm_source=CareerKarma)
 * **Level Bootcamp**
   * [**Women**](https://pages.northeastern.edu/women-scholarship.html)
 * **Learning Fuze**
   * [**Women and veterans**](https://learningfuze.com/faq)
 * **Metis**
-  * [**Veterans, women, LGBTQ, diversity**](https://www.thisismetis.com/data-science-bootcamps)
+  * [**Veterans, women, LGBTQ, diversity**](https://www.thisismetis.com/data-science-bootcamps/?utm_source=CareerKarma)
 * **Redwood Code Academy**
-  * [**Women, veterans, diversity**](https://redwoodcodeacademy.com/scholarships/)
+  * [**Women, veterans, diversity**](https://redwoodcodeacademy.com/scholarships/?utm_source=CareerKarma)
 * **Tech Talent South**
-  * [**Women**](http://info.techtalentsouth.com/wit-scholarship)
-  * [**Diversity, veterans**](http://info.techtalentsouth.com/diversity-scholarship)
+  * [**Women**](https://info.techtalentsouth.com/wit-scholarship?utm_source=CareerKarma)
+  * [**Diversity, veterans**](https://info.techtalentsouth.com/diversity-scholarship?utm_source=CareerKarma)
 * **Software Guild**
-  * [**Women, veterans, diversity**](https://www.thesoftwareguild.com/tuition-financing/)
+  * [**Women, veterans, diversity**](https://www.thesoftwareguild.com/tuition-financing/?utm_source=CareerKarma)
 * **Ubiquim**
-  * [**Women**](https://www.ubiqum.com/women-who-code/)
+  * [**Women**](https://www.ubiqum.com/women-who-code/?utm_source=CareerKarma)
 * **We Can Code It**
-  * [**Diversity**](https://wecancodeit.org/pricing/)
+  * [**Diversity**](https://wecancodeit.org/pricing/?utm_source=CareerKarma)
 * **Wyncode**
-  * [**Women**](https://wyncode.co/women-in-tech-scholarship/)
+  * [**Women**](https://wyncode.co/women-in-tech-scholarship/?utm_source=CareerKarma)
 
 ## Scholarships for Women:
 
