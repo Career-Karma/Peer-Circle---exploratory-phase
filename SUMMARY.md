@@ -3,7 +3,7 @@
 * [Getting Started](README.md)
 * [Phase 1: Join a Community](phase-1-joining-a-community.md)
 * [Phase 2: Research Educational Programs](phase-2-research-educational-programs.md)
-* [Phase 3: Complete the Puzzle](phase-3-complete-the-puzzle.md)
+* [Phase 3: Create Your Roadmap](phase-3-complete-the-puzzle.md)
 
 ## Preparing For a Bootcamp
 

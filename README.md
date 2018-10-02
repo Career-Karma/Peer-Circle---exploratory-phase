@@ -22,9 +22,17 @@ This doc is organized into three phases each serving a different purpose. We enc
 
 Here is a quick outline of what purpose each phase serves:
 
-1. **Phase 1** Introduction to stories of people who came from non-traditional backgrounds and transitioned successfully into software engineering roles. This will help you discover and determine your own unique path.
-2. **Phase 2** Introduce you to the skills you need to become a software engineer and how to acquire them. You will be exposed to numerous coding bootcamps; part-time, remote, financing options and complimentary prep courses.
-3. **Phase 3** By the end of this phase you will assemble all the puzzle pieces needed to create a roadmap. Now each hour or two a night can go towards getting to your destination.
+**Phase 1: Join a Community** 
+
+Introduction to stories of people who came from non-traditional backgrounds and transitioned successfully into software engineering roles. This will help you discover and determine your own unique path.
+
+**Phase 2: Research Educational Programs** 
+
+Introduce you to the skills you need to become a software engineer and how to acquire them. You will be exposed to numerous coding bootcamps; part-time, remote, financing options and complimentary prep courses.
+
+**Phase 3: Create Your Roadmap** 
+
+By the end of this phase you will assemble all the puzzle pieces needed to create a roadmap. Now each hour or two a night can go towards getting to your destination.
 
 \(**Note:** If you would like to join CK's Peer Circles, you noticed a typo or would like to contribute to this document, reach out to Timur directly[ timur@careerkarma.io](mailto:timur@careerkarma.io) \) 
 
