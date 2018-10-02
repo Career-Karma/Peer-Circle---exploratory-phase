@@ -37,7 +37,7 @@ Here is the overview of the process to begin Pair Programing:
 * **Signup** for a Pair Programing Session \(You will see a link to a form 'Pinned' at the top of your chat\)
 * **Connect** with your Pair and pick a date & time that works for both of you
 * **Choose** a challenge \(ranging easy - medium - hard\) that you and your partner will tackle
-* **Pair Program** \(Here are detailed instructions on how to Pair Program\)
+* **Pair Program** \([Here are detailed instructions on how to Pair Program](https://career-karma.gitbook.io/learn/preparing-for-a-bootcamp/pair-programming#pair-programming-instructions)\)
 * **Share** your Results - we encourage you to share screenshots, code snippets and feedback with your peer circles after you're done! 
 * **Solutions** \(We created solutions to challenges that your pair can reference once you're done\)
 
