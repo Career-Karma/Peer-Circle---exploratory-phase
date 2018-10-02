@@ -30,7 +30,7 @@ With Career Karma, we created a way for everyone in our community in Peer Circle
 
 ## Getting Started with Pair Programming
 
-By becoming a member of a Career Karma Peer Circle, you now have access to signup for Pair Programing sessions you can start learning in pairs. 
+By becoming a member of a Career Karma Peer Circle, you now have access to signup for Pair Programing sessions, so you can start learning in pairs. 
 
 Here is the overview of the process to begin Pair Programing: 
 
