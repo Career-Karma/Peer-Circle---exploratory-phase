@@ -6,7 +6,7 @@ Pair Programing is a practice of... you guessed it. Programming in pairs!
 
 But there is a lot more. 
 
-Pair Programming is away for you to work and discuss a challenge with your partner. 
+Pair Programming is a way for you to work and discuss a challenge with your partner. 
 
 It's a chance for you to see your partners approach. 
 

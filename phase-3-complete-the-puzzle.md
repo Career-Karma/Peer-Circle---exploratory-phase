@@ -14,14 +14,14 @@ The biggest goal at this stage, is **for you to define a rough outline of what y
 
 By now, you should be equipped to answer these questions and have a rough idea what your roadmap would look like in this career transition.
 
-On a piece of paper, please answer the questions below:
+On a piece of paper please answer the questions below:
 
 * What is the dream company you want to work at? \(try to be as descriptive as possible\)
 * What city do you want to be in?
-* Are you planning on doing a bootcamp or not? \(etc. part-time, full-time, online or in-person\)
+* Are you planning on doing a bootcamp or not? \(part-time, full-time, online or in-person\)
 * In how many months are you aiming to achieve this goal by?
 * How much money do you want to making as a software engineer to live a comfortable lifestyle?
-* What are you willing to sacrifice to get to your goal? \(ex. going out, time with friends, watching TV, etc\)
+* What are you willing to sacrifice to get to your goal? \(going out, time with friends, watching TV, etc.\)
 
 #### Next Steps:
 
@@ -29,7 +29,7 @@ After you answer these questions, [**print and fill out this offer letter**](htt
 
 Once you fill in the template **print it out and put it somewhere in your home where it's visible** so you can remind yourself of what's on the line.
 
-[**Finally, fill out this form**](https://goo.gl/forms/Sh43ICa77xnXsrvI3) and we will add you to a peer circle that will help you practice & develop skills during the following _Bootcamp Prep_ Stage.
+[**Finally, fill out this form**](https://goo.gl/forms/Sh43ICa77xnXsrvI3) and we will add you to a peer circle that will help you practice and develop skills during the following _Bootcamp Prep_ Stage.
 
 ### Lets break in!
 
