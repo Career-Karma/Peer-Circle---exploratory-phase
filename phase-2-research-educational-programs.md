@@ -21,12 +21,32 @@ Based on the information above, select 2-3 bootcamps that fit your schedule, fin
 
 **Here are the links to their websites:**
 
+![](.gitbook/assets/lambdaschool.jpg)
+
 * [Lamda School](http://smarturl.it/Lambda-About-link)
+
+![](.gitbook/assets/aa.jpg)
+
 * [App Academy](http://smarturl.it/AppAcademy-About)
+
+![](.gitbook/assets/hack-reactor.jpg)
+
 * [Hack Reactor](http://smarturl.it/HRAbout)
+
+![](.gitbook/assets/thinkful.jpg)
+
 * [Thinkful](http://smarturl.it/ThinkfulAbout)
+
+![](.gitbook/assets/flatiron.jpg)
+
 * [Flatiron School](http://smarturl.it/Flatiron-about)
+
+![](.gitbook/assets/skillscrush-1.jpg)
+
 * [Skillscrush](http://smarturl.it/SkillscrushAbout)
+
+![](.gitbook/assets/fullstack.jpg)
+
 * [Fullstack Academy](http://smarturl.it/FullstackAcademy)
 
 #### Leverage LinkedIn:
