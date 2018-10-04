@@ -2,9 +2,9 @@
 
 At this point, you have probably heard stories of how others are making it into tech.
 
-If you followed the steps in the Getting Started section, you now even have a roadmap. 
+If you followed the steps in the Getting Started section you now even have a roadmap. 
 
-**However, guess what...** 
+But....
 
 {% hint style="info" %}
 an _**Inspiring Story** and **Roadmap**_ alone are not going to be enough for you to reach your goal.  
@@ -26,7 +26,7 @@ In most cases, it's not even going to be your family.
 Uncaught TypeError: undefined is not a function
 ```
 
-\(We love family and support, but unless they are software engineers already they probably will not help you when your function is returning a result that's undefined\) 
+\(Although we love family and support the truth is unless they are already software engineers they will most likely not help you when your function is returning a result that's undefined\) 
 
 {% hint style="success" %}
 **The people who will help you get through this journey and technical challenges are going to be your PEERS.** 
@@ -36,7 +36,7 @@ Your peers are not experts.
 
 They are learners just like you! 
 
-Some of them are starting now. Just like you!
+Some of them are starting now just like you.
 
 Others have been doing it for weeks or months longer than you.
 
@@ -44,7 +44,7 @@ They know what it is like to be learning how to code on top of their full-time j
 
 ## What's Next?
 
-In this section, you will begin coding and become a stronger engineer. 
+In this section you will begin coding and become a stronger engineer. 
 
 You will learn about **Pair Programing** and you'll find out what it takes to work on a team of engineers. 
 
@@ -71,9 +71,9 @@ Tip 2: Do not compare yourself, your learning pace or accomplishments to your pe
 
 Success on this journey is a factor of how much **time** you spent practicing and doing the 4 activities above. 
 
-**We've helped hundreds of people complete this journey. Before you know it, you will become a software engineer!**
+**We've helped hundreds of people complete this journey and before you know it you will become a software engineer as well!**
 
-Just remember: _a black belt is a white belt who didn't stop!_
+Just remember: _a black belt is a white belt who didn't stop._
 
-Lets Break In!
+Let's Break In!
 
