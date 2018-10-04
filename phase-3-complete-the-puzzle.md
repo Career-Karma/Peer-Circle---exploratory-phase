@@ -12,7 +12,7 @@ We know that things might change and new opportunities will come up.
 
 The biggest goal at this stage is **for you to define a rough outline of what your whole path is going to look like**. 
 
-By now, you should be equipped to answer these questions and have a rough idea what your roadmap would look like in this career transition.
+By now you should be equipped to answer these questions and have a rough idea what your roadmap would look like in this career transition.
 
 On a piece of paper please answer the questions below:
 
@@ -31,5 +31,5 @@ Once you fill in the template **print it out and put it somewhere in your home w
 
 [**Finally, fill out this form**](https://goo.gl/forms/Sh43ICa77xnXsrvI3) and we will add you to a peer circle that will help you practice and develop skills during the following _Bootcamp Prep_ Stage.
 
-### Lets break in!
+### Let's break in!
 
