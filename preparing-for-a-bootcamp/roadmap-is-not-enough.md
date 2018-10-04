@@ -56,14 +56,14 @@ We broke down this Stage into 4 activities that you will be doing on an on-going
 
 * **Peer Circles** - you will be part of PCs where you'll join your peers in discussions, ask questions and find answers
 * **Pair Programming** - you will be paired with each other on weekly basis to get you into the mode of working with each other
-* **Practicing** - we will layout challenges and tutorials you will complete in JavaScript, HTML, & CSS to gain master of these skills. 
-* **Research** - As you're doing further research into scholarships, bootcamps, engineering roles and resources, you will have access to mentors, alumni, bootcamp partners and of course us along every step!
+* **Practicing** - we will layout challenges and tutorials you will complete in JavaScript, HTML, & CSS to gain master of these skills
+* **Research** - As you're doing further research into scholarships, bootcamps, engineering roles and resources, you will have access to mentors, alumni, bootcamp partners and of course us along every step
 
 The 4 activities are not meant to be taken in any specific order or during any specific timeframe. 
 
 We realize each one of you has a unique learning style. 
 
-Although all of you have a goal of becoming software engineers, we realize you all come from different backgrounds and have different responsibilities & obligations. 
+Although all of you have a goal of becoming software engineers, we realize you all come from different backgrounds and have different responsibilities and obligations. 
 
 {% hint style="info" %}
 Tip 2: Do not compare yourself, your learning pace or accomplishments to your peers. 
