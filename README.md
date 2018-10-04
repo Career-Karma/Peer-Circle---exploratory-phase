@@ -16,11 +16,9 @@ _We will show you specific resources and tutorials your peers completed who beca
 
 _We'll connect you to your peers who will keep you accountable, help you manage your schedule and help you get unstuck._
 
-#### How to use this doc:
+## How to use this guide:
 
-This doc is organized into three phases each serving a different purpose. We encourage you to go through each phase in this particular order but you can skip a phase if you already know it.
-
-Here is a quick outline of what purpose each phase serves:
+This guide is organized into three phases each serving a different purpose. We encourage you to go through each phase in this particular order but you can skip a phase if you already know it.
 
 **Phase 1: Join a Community** 
 
