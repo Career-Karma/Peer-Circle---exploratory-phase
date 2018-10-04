@@ -4,13 +4,13 @@
 
 Congrats on making it this far!
 
-This might seem like the easiest section, but it's actually the most important step! We've helped thousands of people break into tech and the ones that succeeded have done this particular step.
+This might seem like the easiest section but it's actually the most important step! We've helped thousands of people break into tech and the ones that succeeded have done this particular step.
 
-I guess what we're trying to say, **Please make sure you do not skip it!**
+I guess what we're trying to say is **please make sure you do not skip it!**
 
 We know that things might change and new opportunities will come up. 
 
-The biggest goal at this stage, is **for you to define a rough outline of what your whole path is going to look like**. 
+The biggest goal at this stage is **for you to define a rough outline of what your whole path is going to look like**. 
 
 By now, you should be equipped to answer these questions and have a rough idea what your roadmap would look like in this career transition.
 
