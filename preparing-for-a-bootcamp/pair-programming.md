@@ -16,34 +16,34 @@ And a chance for you to articulate and share your approach with your partner.
 
 It's also a great way to see if you really understand a programming concept. 
 
-There is no better way to see if you know a concept, but to then try teaching it to somebody else. 
+There is no better way to see if you know a concept than to try teaching it to someone else. 
 
 {% hint style="info" %}
-More often then not, by teaching others, you push yourself to think of examples and analogies that help you formulate and solidify your mental model around a coding concept
+More often than not by teaching others you push yourself to think of examples and analogies that help you formulate and solidify your mental model around a coding concept.
 {% endhint %}
 
-Another benefit is in a real-world work environment you're going to be working on teams with other engineers. 
+In the real world you will be working on teams. 
 
-So why not simulate that same environment when you're learning?..
+So why not simulate that same environment when you're learning?
 
 Our point is that it's a really useful practice that we have seen work for ourselves and our community members who broke in. 
 
-With Career Karma, we created a way for everyone in our community in Peer Circles to do the same.
+With Career Karma we created a way for everyone in our community in Peer Circles to do the same.
 
 ## Getting Started with Pair Programming
 
-By becoming a member of a Career Karma Peer Circle, you now have access to signup for Pair Programing sessions, so you can start learning in pairs. 
+By becoming a member of a Career Karma Peer Circle, you now have access to signup for Pair Programing sessions so you can start learning in pairs. 
 
 Here is the overview of the process to begin Pair Programing: 
 
-* **Signup** for a Pair Programing Session \(You will see a link to a form 'Pinned' at the top of your chat\)
-* **Connect** with your Pair and pick a date & time that works for both of you
+* **Signup** for a Pair Programing Session \(you will see a link to a form 'Pinned' at the top of your chat\)
+* **Connect** with your Pair and pick a date and time that works for both of you
 * **Choose** a challenge \(ranging easy - medium - hard\) that you and your partner will tackle
 * **Pair Program** \([Here are detailed instructions on how to Pair Program](https://career-karma.gitbook.io/learn/preparing-for-a-bootcamp/pair-programming#pair-programming-instructions)\)
-* **Share** your Results - we encourage you to share screenshots, code snippets and feedback with your peer circles after you're done! 
-* **Solutions** \(We created solutions to challenges that your pair can reference once you're done\)
+* **Share** your results; we encourage you to share screenshots, code snippets and feedback with your peer circles after you're done 
+* **Solutions** \(we created solutions to challenges that you can reference once you're done\)
 
-We recommend that before attempting to Pair Program you spend about 5-10 hours familiarizing yourself with basic HTML, CSS or JavaScript fundamentals to get ready. 
+We recommend that before attempting to Pair Program you spend 5-10 hours familiarizing yourself with basic HTML, CSS or JavaScript fundamentals to get prepare. 
 
 ![](../.gitbook/assets/prepcourses.jpg)
 
@@ -61,7 +61,7 @@ We recommend that before attempting to Pair Program you spend about 5-10 hours f
 
 To help you get started, once you're assigned a pair, we've put together challenges you can do through a shared coding editor. 
 
-We realize that in most cases, you will be Pair Programming _**'Virtually'**_ so we designed the experience that can be done completely remote. 
+We realize that in most cases you will be Pair Programming virtually so we designed an experience that can be done completely remote. 
 
 Here are the **3 sample challenges** you can choose from: 
 
@@ -75,13 +75,13 @@ Basically, you'll be able to decide what problem your pair wants to tackle and y
 
 Now here comes the fun part. 
 
-**To begin** pair programing, you need to start off by understanding two important terms: 
+**To begin** pair programing, you need to start off by understanding the roles in each pair:
 
-**Driver.** 
+**Driver**
 
-**Navigator.** 
+**Navigator** 
 
-The driver is role of one of the two peer in your pair, who will be responsible for typing and writing the code. 
+The driver is one of the two roles in your pair who will be responsible for typing and writing the code. 
 
 Here is the catch. 
 
@@ -93,17 +93,17 @@ They are only allowed to write code dictated by **the Navigator**.
 
 The Navigator is tasked with explaining their logic and approach to the driver so the driver knows what needs to be typed. 
 
-In the process of pair programming, you will see that both parties will be discussing and brainstorming the best approach. 
+In the process of pair programming you will see that both parties will be discussing and brainstorming the best approach. 
 
-The key part in pair programming, is that **both programmers switch roles every 15-minutes**. 
+The key part in pair programming is that **both programmers switch roles every 15-minutes**. 
 
-What this means is you will be put into a position of leading and following. 
+This means your role will switch between driving and navigating. 
 
 You will learn how to work with others. 
 
 How your peers think. 
 
-How they approach different problems solving. 
+How they approach different problem solving. 
 
 What they do to solve problems efficiently. 
 
@@ -113,45 +113,45 @@ You will not just learn more about programming, but you will learn a lot about y
 
 ## The Setup: 
 
-Here are three reasons we're excited. 
+Here are three reasons we're excited:
 
-**The First Reason**: You will get to use [CodeSandbox](https://docs.google.com/document/d/1N3Iv3C3SFye1hrGRR81Fj51S6tfRe6bPHtRAb-x3nT0/edit?usp=sharing) which is a tool that will allow you to type your code in your browser and your partners screen we'll update with each key stroke. \(And vise-versa\) 
+1. You will get to use [CodeSandbox](https://docs.google.com/document/d/1N3Iv3C3SFye1hrGRR81Fj51S6tfRe6bPHtRAb-x3nT0/edit?usp=sharing) which is a tool that will allow you to type your code in your browser and your partners screen will update with each key stroke. \(And vise-versa\) 
 
 This way you'll truly have a 'Virtual Pair Programming' environment and you'll be set-up to begin working in no time. 
 
-**The Second Reason**: Your pair programing projects will be seamlessly stored on Github. 
+2. Your pair programing projects will seamlessly be stored on Github. 
 
-Which mean, you can create a Github account and begin building your reputation as a software engineer. 
+This means you can create a Github account and begin building your reputation as a software engineer. 
 
 Github is a place where most engineering teams store their code. 
 
-As you store you're code, it also tracks your progress and your activity. 
+As you store your code it will also track your progress and activity. 
 
 ![](../.gitbook/assets/screen-shot-2018-09-28-at-7.53.14-pm.png)
 
 As you practice and become a better developer, you're account gets more commits. 
 
-This will eventually help you **stand-out when you're applying for jobs** in a few months from now!!!
+This will eventually help you **stand out when you're applying for jobs** in a few months from now!
 
 \(Here are the [instructions on how to create a Github account](https://docs.google.com/document/d/1oBhKoEanwGkfyqHwXlybkTEFdSX_f0xFRMffMuQ6Us8/edit?usp=sharing) if you don't already have one\) 
 
-**The Third Reason:** You will be learning, teaching and practicing coding challenges with a friend.
+3. You will be learning, teaching and practicing coding challenges with a friend.
 
 We know you might be paired with someone who know a little bit more or less than you. 
 
 That's Ok!
 
-Use it as an opportunity to see how someone else approaches their unique way of solving a problem. 
+Use this as an opportunity to see how someone else approaches their unique way of solving a problem. 
 
-A the end of the Pair Programing session we'll be asking each pair to post screen shots of the deliverable and feedback!
+At the end of the Pair Programing session we'll be asking each pair to post screen shots of the deliverable and feedback!
 
 This will be a great way to build up your reputation in your peer circle & KARMA!
 
 ## Solutions
 
-Proceed with warning :\) 
+Proceed with warning...
 
-Here are the solutions to the coding challenges. 
+Here are the solutions to the coding challenges:
 
 **Build HTML & CSS Page** - [Solution](https://codesandbox.io/s/mokjnyqx98)
 
@@ -159,9 +159,9 @@ Here are the solutions to the coding challenges.
 
 **Javascript Intro toy problem** - [Solution](https://codesandbox.io/s/9ov7j0k48o)
 
-Remember to take a screenshot or the url to your peer circle group!
+Remember to take a screenshot and share the url of your solution with your peer circle. 
 
-If you enjoyed the pair programming experience, we'd love to see and get your feedback!
+If you enjoyed the pair programming experience, we'd love to hear your feedback!
 
  ****
 
