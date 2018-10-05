@@ -69,9 +69,13 @@ Here are the **3 sample challenges** you can choose from:
 
 1. [Build HTML & CSS Page](https://codesandbox.io/s/xjnpr97v04) \(Easy\)
 2. [HTML & CSS Animations](https://codesandbox.io/s/m46r81ykqx) \(Medium\)
-3. [Javascript Into Algorithm toy problem](https://codesandbox.io/s/9ov7j0k48o) \(Easy\)
+3. [Javascript Into Algorithm toy problem](https://codesandbox.io/s/9q2754039o) \(Easy\)
 
 Basically, you'll be able to decide what problem your pair wants to tackle and you'll have access to the same workspace. \(Run in your browser\)
+
+If you find these problems too easy or run out of challenges, we recommend you go on CodeWars and work on those problems. \(You can still use CodeSandbox to have a shared editor\)
+
+[CodeWars Problems](https://www.codewars.com/collections/codewars-problems)
 
 ## Pair Programming Instructions 
 
