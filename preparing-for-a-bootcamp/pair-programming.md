@@ -1,8 +1,10 @@
 # Pair Programming
 
-## What is Pair Programing?
+![](../.gitbook/assets/thumbnailck.jpg)
 
-![](../.gitbook/assets/untitled-design-2.png)
+[Pair Programming Explained: watch video here](https://youtu.be/0FIu_tU2WrM).  
+
+##  What is Pair Programing?
 
 Pair Programing is a practice of... you guessed it. Programming in pairs! 
 
