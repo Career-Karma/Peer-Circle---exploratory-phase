@@ -22,7 +22,7 @@ Please watch previously recorded interviews with guest speakers who share their 
 
 **Success stories:**
 
-[Teacher who became a Software Engineer at Mailchimp ](https://breakingintostartups.com/haseeq-qureshi-software-engineer-professional-poker-player/)
+[Teacher who became a Software Engineer at Mailchimp ](https://breakingintostartups.com/iris-nevins-engineer-mailchimp-2/)
 
 ![                               Iris Nevins](.gitbook/assets/iris-nevins.png)
 
