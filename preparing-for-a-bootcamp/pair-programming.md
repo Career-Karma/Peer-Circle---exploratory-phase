@@ -145,7 +145,10 @@ This will eventually help you **stand out when you're applying for jobs** in a f
 
 We know you might be paired with someone who know a little bit more or less than you. 
 
-That's Ok!
+That's Ok! A huge benefit of pairing is that you get to ask and answer each others question. Be sure to ask something if you are unsure
+
+4. Download Zoom - while pair programming you will need to be able to see and hear each other. Zoom provides an easy interface to allow you to speak while using sandbox
+
 
 Use this as an opportunity to see how someone else approaches their unique way of solving a problem. 
 
