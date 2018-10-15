@@ -12,5 +12,5 @@
 * [Accountability Partners](preparing-for-a-bootcamp/accountability-partners.md)
 * [Learn Fundamentals](preparing-for-a-bootcamp/learn-fundamentals.md)
 * [Getting Unstuck](preparing-for-a-bootcamp/getting-unstuck.md)
-* [Bootcamp Scholarship List 2018](scholarship-list.md)
+* [Bootcamp Scholarship List 2018](preparing-for-a-bootcamp/scholarship-list.md)
 
