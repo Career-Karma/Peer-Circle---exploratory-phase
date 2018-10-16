@@ -29,7 +29,7 @@ After you answer these questions, [**print and fill out this offer letter**](htt
 
 Once you fill in the template **print it out and put it somewhere in your home where it's visible** so you can remind yourself of what's on the line.
 
-[**Finally, fill out this form**]() and we will add you to a peer circle that will help you practice and develop skills during the following _Bootcamp Prep_ Stage.
+[**Finally, fill out this form**](https://goo.gl/forms/XcttYdm5NI5thHZh2) and we will add you to a peer circle that will help you practice and develop skills during the following _Bootcamp Prep_ Stage.
 
 ### Let's break in!
 
