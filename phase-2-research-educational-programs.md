@@ -23,13 +23,13 @@ Based on the information above, select 2-3 bootcamps that fit your schedule, fin
 
 **Here are the links to their websites:**
 
-* [Lamda School](http://smarturl.it/Lambda-About-link)
-* [App Academy](http://smarturl.it/AppAcademy-About)
-* [Hack Reactor](http://smarturl.it/HRAbout)
-* [Thinkful](http://smarturl.it/ThinkfulAbout)
-* [Flatiron School](http://smarturl.it/Flatiron-about)
-* [Skillscrush](http://smarturl.it/SkillscrushAbout)
-* [Fullstack Academy](http://smarturl.it/FullstackAcademy)
+* [Lamda School](https://lambdaschool.com/?mbsy=nWFFd&campaignid=33468&mbsy_source=1645c31c-62e1-4ae2-b999-17f4bbf6f3f7)
+* [App Academy](https://apply.appacademy.io/careerkarma-app-academy/)
+* [Hack Reactor](https://getcoding.hackreactor.com/bis/)
+* [Thinkful](https://getstarted.thinkful.com/partnerships/career-karma-thinkful-engineering-course)
+* [Flatiron School](https://flatironschool.com/?utm_source=careerkarma&utm_medium=social)
+* [Skillscrush](https://skillcrush.com/is-tech-right-for-you-quiz-career-karma)
+* [Fullstack Academy](http://smarturl.it/FullstackAcademy?utm_campaign=Breaking%20Into%20Startups&utm_source=BreakingIntoStartups&utm_medium=breakingintostatups)
 
 #### Leverage LinkedIn:
 
@@ -56,10 +56,10 @@ The mistake we see a lot of people make is taking various tutorials without know
 Here is a list of free prep course that you can take:
 
 * [Lambda School intro to web development](http://smarturl.it/Lambda-School-prep)
-* [Flatiron Bootcamp prep](http://smarturl.it/FlatironPrep)
+* [Flatiron Bootcamp prep](https://flatironschool.com/free-courses/coding-bootcamp-prep/?utm_source=careerkarma&utm_medium=social)
 * [Hack Reactor SSP Program](http://smarturl.it/Hack-Reactor-prep)
 * [Thinkful apply for prep](http://smarturl.it/Thinkful)
-* [App Academy apply for prep](https://www.appacademy.io)
+* [App Academy apply for prep](https://apply.appacademy.io/careerkarma-app-academy/)
 * [Fullstack Academy Coding fundementals course](http://smarturl.it/Fullstack-Academy)
 * [Fullstack Academy \(Gracehopper\) apply for prep](http://smarturl.it/Fullstack-gracehoppe)
 
