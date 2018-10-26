@@ -17,58 +17,58 @@ _**Feel free to click through the quick links at the top of the page or on the r
 ## **Here is a list of scholarships provided by different bootcamps:**
 
 * **App Academy:**
-  * [**Deposit assistance program**](http://smarturl.it/aA-Dap) ****
+  * [**Deposit assistance program**](https://www.appacademy.io/diversity/?utm_source=careerkarma) ****
 * **Hack Reactor:**
-  * [**Full ride scholarship**](http://smarturl.it/HR-full-ride)
-  * [**Diversity Scholarship**](http://smarturl.it/HR-full-ride)
+  * [**Full ride scholarship**](https://www.hackreactor.com/hr-scholarship/?utm_source=careerkarma)
+  * [**Diversity Scholarship**](https://www.hackreactor.com/hr-scholarship/?utm_source=careerkarma)
 * **Thinkful:**
-  * [**Diversity, Women scholarships available**](http://smarturl.it/thinkful-scholarship)
+  * [**Diversity, Women scholarships available**](https://www.thinkful.com/blog/coding-bootcamp-scholarships-for-women//?utm_source=careerkarma)
 * **Fullstack Academy:**
-  * [**Chicago immersive program**](http://smarturl.it/fullstackScholarship)
-  * [**Remote immersive**](http://smarturl.it/fullstackScholarship)
-  * [**Gracehopper program**](http://smarturl.it/GracehopperScholar)
-  * [**Edie Windsor coding scholarship \(lesbians who tech\)**](http://smarturl.it/LesbiansWhoTech)
+  * [**Chicago immersive program**](https://www.fullstackacademy.com/scholarships/chicago-scholarship/?utm_source=careerkarma)
+  * [**Remote immersive**](https://www.fullstackacademy.com/scholarships/chicago-scholarship/?utm_source=careerkarma)
+  * [**Gracehopper program**](https://www.gracehopper.com/?/utm_source=careerkarma)
+  * [**Edie Windsor coding scholarship \(lesbians who tech\)**](https://lesbianswhotech.org/codingscholarship/#apply/?utm_source=careerkarma)
 * **Flatiron School:**
-  * [**Women take tech**](http://smarturl.it/FlatironScholar)
-  * [**Merit scholarship**](http://smarturl.it/FlatironMeritScholar)
+  * [**Women take tech**](https://flatironschool.com/scholarships/women-take-tech/?utm_source=careerkarma)
+  * [**Merit scholarship**](https://go.flatironschool.com/meritscholarship?utm_source=careerkarma)
 * **Skills fund:**
-  * [**apply here**](http://smarturl.it/SkillsFund)
+  * [**apply here**](https://skills.fund/your-school/tech-training/coding?utm_source=careerkarma)
 * **NYC data science academy**
-  * [**Deep learning scholarship for women \(use code "DLFORWOMEN"\)**](http://smarturl.it/NycDataScience)
+  * [**Deep learning scholarship for women \(use code "DLFORWOMEN"\)**](https://nycdatascience.com/courses/deep-learning/?utm_source=careerkarma)
 * **Bitmaker**
-  * [**Grace Hopper scholarship for women**](http://smarturl.it/Bitmaker)
+  * [**Grace Hopper scholarship for women**](http://blog.bitmaker.co/2013/07/30/grace-hopper-scholarship-for-women-in-computing/?utm_source=careerkarma)
 * **Bloc**
-  * [**Scholarship for women**](http://smarturl.it/BlocScholar)
-  * [**Diversity scholarship**](http://smarturl.it/BlocDiversity)
-  * [**Women who code scholarship**](http://smarturl.it/blocWomenCode)
-  * [**Veterans scholarship**](http://smarturl.it/blocVeteransCode)
+  * [**Scholarship for women**](https://try.bloc.io/close-the-gap-scholarship/?utm_source=careerkarma)
+  * [**Diversity scholarship**](http://try.bloc.io/new-relic-bootcamp-diversity-scholarship/?utm_source=careerkarma)
+  * [**Women who code scholarship**](http://try.bloc.io/women-who-code-scholarship/?utm_source=careerkarma)
+  * [**Veterans scholarship**](http://try.bloc.io/dev-bootcamp-for-veterans/?utm_source=careerkarma)
 * **Brain Train**
-  * [**Women in development**](http://smarturl.it/BrainTrainWomen)
-  * [**University and college student**](http://smarturl.it/BrainTrainUniv)
-  * [**Entrepreneur scholarship**](http://smarturl.it/BrainTrainEntrepren)
-  * [**Scholarship for non-profit employees**](https://brainstation.io/scholarships/scholarship-for-non-profit-employees)
-  * [**Merit scholarship**](http://smarturl.it/BrainTrainMerit)
+  * [**Women in development**](https://brainstation.io/scholarships/women-in-development-scholarship/?utm_source=careerkarma)
+  * [**University and college student**](https://brainstation.io/scholarships/university-and-college-scholarship/?utm_source=careerkarma)
+  * [**Entrepreneur scholarship**](https://brainstation.io/scholarships/entrepreneur-in-technology-scholarship/?utm_source=careerkarma)
+  * [**Scholarship for non-profit employees**](https://brainstation.io/scholarships/scholarship-for-non-profit-employees/?utm_source=careerkarma)
+  * [**Merit scholarship**](https://brainstation.io/scholarships/merit-scholarship/?utm_source=careerkarma)
 * **Claim Academy**
-  * [**Women, diversity, veteran**](http://smarturl.it/ClaimAcademy)
+  * [**Women, diversity, veteran**](http://claimacademystl.com/financing/index.html?utm_source=careerkarma)
 * **Code Fellows**
-  * [**Diversity**](http://smarturl.it/CodeFellows)
+  * [**Diversity**](https://www.codefellows.org/diversity-scholarship-fund/?utm_source=careerkarma)
 * **Code Platoon**
-  * [**Veterans scholarship**](https://www.codeplatoon.org/scholarships/?utm_source=CareerKarma)
+  * [**Veterans scholarship**](https://www.codeplatoon.org/scholarships/?utm_source=CareerKarma?utm_source=careerkarma)
   * [**Remote attendance scholarship**](https://www.codeplatoon.org/scholarships/?utm_source=CareerKarma)
   * [**Women in tech**](https://www.codeplatoon.org/scholarships/?utm_source=CareerKarma)
-  * [**Transgender Veterans scholarship**](https://www.codeplatoon.org/scholarships/)
+  * [**Transgender Veterans scholarship**](https://www.codeplatoon.org/scholarships/?utm_source=careerkarma)
 * **Coder Camps**
   * [**Women, veterans, LGBTQ, first responders, diversity**](https://www.codingdojo.com/onsite-boot-camp#scholarships/?utm_source=CareerKarma)
 * **Coding Dojo**
-  * [**Women, military, diversity**](https://www.codingdojo.com/onsite-boot-camp#scholarships)
+  * [**Women, military, diversity**](https://www.codingdojo.com/onsite-boot-camp#scholarships/?utm_source=careerkarma)
 * **Coding Nomads**
-  * [**Women, diversity, military, local \(mexico and bali\), vision**](https://codingnomads.co/scholarships/)
+  * [**Women, diversity, military, local \(mexico and bali\), vision**](https://codingnomads.co/scholarships/?utm_source=careerkarma)
 * **Coding Temple**
-  * [**Women, college student, veteran, switchup**](https://www.switchup.org/bootcamps/coding-temple)
+  * [**Women, college student, veteran, switchup**](https://www.switchup.org/bootcamps/coding-temple?utm_source=careerkarma)
 * **Firehose**
-  * [**Merit and diversity**](https://thefirehoseproject.com/scholarships/?utm_source=%22CareerKarma%22)
+  * [**Merit and diversity**](https://thefirehoseproject.com/scholarship/?utm_source=careerkarma)
 * **Galvanize**
-  * [**Diversity**](https://www.galvanize.com/tuition-assistance?utm_source=%22CareerKarma%22)
+  * [**Diversity**](https://www.galvanize.com/tuition-assistance?utm_source=CareerKarma)
 * **Grand Circus**
   * [**Veterans, diversity, LGBTQ**](https://www.grandcircus.co/bootcamps/tuition-and-scholarships/?utm_source=CareerKarma)
 * **Healio Training**
@@ -78,7 +78,7 @@ _**Feel free to click through the quick links at the top of the page or on the r
 * **Level Bootcamp**
   * [**Women**](https://pages.northeastern.edu/women-scholarship.html)
 * **Learning Fuze**
-  * [**Women and veterans**](https://learningfuze.com/faq)
+  * [**Women and veterans**](https://learningfuze.com/faq?utm_source=careerkarma)
 * **Metis**
   * [**Veterans, women, LGBTQ, diversity**](https://www.thisismetis.com/data-science-bootcamps/?utm_source=CareerKarma)
 * **Redwood Code Academy**

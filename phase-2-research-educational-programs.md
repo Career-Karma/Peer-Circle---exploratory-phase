@@ -23,7 +23,7 @@ Based on the information above, select 2-3 bootcamps that fit your schedule, fin
 
 **Here are the links to their websites:**
 
-* [Lamda School](https://lambdaschool.com/?mbsy=nWFFd&campaignid=33468&mbsy_source=1645c31c-62e1-4ae2-b999-17f4bbf6f3f7)
+* [Lambda School](https://lambdaschool.com/?mbsy=nWFFd&campaignid=33468&mbsy_source=1645c31c-62e1-4ae2-b999-17f4bbf6f3f7)
 * [App Academy](https://apply.appacademy.io/careerkarma-app-academy/)
 * [Hack Reactor](https://getcoding.hackreactor.com/bis/)
 * [Thinkful](https://getstarted.thinkful.com/partnerships/career-karma-thinkful-engineering-course)
