@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/thumbnailck.jpg)
 
-[Pair Programming Explained: watch video here](https://youtu.be/0FIu_tU2WrM).
+[Pair Programming Explained: watch video here](https://www.youtube.com/watch?v=mA8pdWq7UqU).
 
 ## What is Pair Programing?
 
