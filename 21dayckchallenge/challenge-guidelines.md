@@ -17,7 +17,7 @@ These same people will hold you accountable!
 Once you update your profile, post in your current group which prep course you are taking and Timur we'll add you to a new peer circle. 
 
 {% hint style="info" %}
-If you're having any issues, just reach out to Timur on the CK app. 
+If you are having any issues, just reach out to Timur on the CK app. 
 {% endhint %}
 
 ## Third Step - Show Up
@@ -33,6 +33,12 @@ We also know that forming new habits is not easy.
 Therefore we specifically designed this experience to follow a **Formula.** 
 
 > The **Formula** that has worked for thousands people who took their studying seriously, surrounded themselves with a community and took the plunge.
+
+**Each week we ask that you at least:**
+
+1. Connect with people in Career Karma
+2. Post on twitter each week
+3. Attend 1 workshop weekly 
 
 ## Fourth Step - Participate
 
@@ -56,13 +62,35 @@ To make this challenge a success we're going to be strict with participation.
 
 We can only hold you accountable if you show up and participate. 
 
-In order for your Peer Circle to help you, we ask that you take a screen shot of your Conversations each day and share it in your peer circle. 
+In order for your Peer Circle to see if you're falling behind or need help, we ask that you take a screen shot of your Conversations each day and share it in your group. 
 
 here is an example: 
 
 ![Sample Conversations Screenshot](../.gitbook/assets/img_1995.PNG)
 
-Make sure that you're reaching out to new people each week and you're 
+Keep reminding yourself that this is not just about coding. 
 
-##  
+It's about **building new habits.** 
+
+There is going to be moments when you don't have the motivation to take action. 
+
+That's why we ask that you proactively in a friendly manner, call each out in your peer circle if your peer has been... you know... SLACKING. 
+
+Example text:
+
+> Hey Timur, you're here because you said you want a new career. Haven't heard from you for days now. Do you still want to 'Get that money?'
+
+You get the point :\) 
+
+## Finally
+
+Have Fun!
+
+This is a social experiment!
+
+You're part of a movement that will help people land into new careers including yourself. 
+
+It's not going to be easy. 
+
+We can promise you that as long as you don't quit and show up, we'll personally make sure that you get all the resources and help that you need to **make 2019 the year of Change**. 
 
