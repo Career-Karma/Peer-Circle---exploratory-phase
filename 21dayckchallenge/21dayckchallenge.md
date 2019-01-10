@@ -47,7 +47,7 @@ In case you missed it, here you can watch the Launch Video with CK's community:
 
 ## Next Steps 
 
-1. Announce your commitment in your Peer Circle & publicly on twitter here. 
+1. Announce your commitment in your Peer Circle and [**publicly on twitter here**](https://twitter.com/intent/tweet?url=https%3A%2F%2Fsmarturl.it%2F21DayCkChallenge&text=I%27m%20publicly%20committing%20to%20the%2021DayCkChallenge%20to%20take%20control%20of%20my%20career%21%20Find%20out%20more%20and%20Join%20me%21&hashtags=21DayCkChallenge)**.** 
 2. Sign-up for the first workshop called [_**Orientation**_](https://smarturl.it/ck-orientation) or the second workshop called [_**Basic Training**_](https://smarturl.it/ck-basic-training). 
 3. If you haven't been added to a new Peer Circle, post which bootcamp prep course you're taking on the [Career Karma app](https://ck.chat/) and we'll match you to people learning similar technologies. 
 4. Obtain additional details on the [**Challenge Guidelines here.** ](challenge-guidelines.md)\*\*\*\*
