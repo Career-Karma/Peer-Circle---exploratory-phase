@@ -37,6 +37,12 @@ We specifically want you to get to know people at your stage and people at a sta
 
 We also chose Twitter for a reason. Twitter is a tool that will give you leverage in your bootcamp or job interviews, open doors to new opportunities and help establish your brand.
 
+In case you missed it, here you can watch the Launch Video with CK's community:
+
+[https://youtu.be/BdmY4Tj0EII](https://youtu.be/BdmY4Tj0EII)
+
+![](../.gitbook/assets/screen-shot-2019-01-10-at-1.03.26-am.png)
+
 ## Next Steps 
 
 1. You should announce your commitment in your peer circle & publicly on twitter here. 

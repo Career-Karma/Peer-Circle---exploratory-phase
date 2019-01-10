@@ -8,6 +8,7 @@
 ## \#21DayCkChallenge
 
 * [\#21DayCkChallenge](21dayckchallenge/21dayckchallenge.md)
+* [Challenge Guidelines](21dayckchallenge/challenge-guidelines.md)
 
 ## Preparing For a Bootcamp
 
