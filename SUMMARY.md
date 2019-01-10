@@ -5,6 +5,10 @@
 * [Phase 2: Research Educational Programs](phase-2-research-educational-programs.md)
 * [Phase 3: Create Your Roadmap](phase-3-complete-the-puzzle.md)
 
+## \#21DayCkChallenge
+
+* [\#21DayCkChallenge](21dayckchallenge/21dayckchallenge.md)
+
 ## Preparing For a Bootcamp
 
 * [Roadmap \(Is not Enough\)](preparing-for-a-bootcamp/roadmap-is-not-enough.md)
