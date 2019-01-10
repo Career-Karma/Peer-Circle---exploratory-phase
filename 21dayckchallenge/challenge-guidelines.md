@@ -86,7 +86,7 @@ You get the point :\)
 
 Have Fun!
 
-This is a social experiment!
+This is a social experiment! We are continuously making changes in our lives and in Career Karma as well!
 
 You're part of a movement that will help people land into new careers including yourself. 
 
