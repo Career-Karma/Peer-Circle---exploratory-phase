@@ -2,7 +2,7 @@
 
 ## First Step - Update Your Profile
 
-To get started, **update your profile** on the Career Karma app to reflect your stage and add a short bio so people can get to know you. 
+To get started, **update your profile** on the [Career Karma app](https://smarturl.it/downloadCkTimur) to reflect your stage and add a short bio so people can get to know you. 
 
 Choose a stage like _Exploring, Preparing for a Bootcamp_ \(include the bootcamp name\), _Attending a Bootcamp_...etc. 
 

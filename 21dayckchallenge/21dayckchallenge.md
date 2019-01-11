@@ -49,12 +49,12 @@ In case you missed it, here you can watch the Launch Video with CK's community:
 
 1. Announce your commitment in your Peer Circle and [**publicly on twitter here**](https://twitter.com/intent/tweet?url=https%3A%2F%2Fsmarturl.it%2F21DayCkChallenge&text=I%27m%20publicly%20committing%20to%20the%2021DayCkChallenge%20to%20take%20control%20of%20my%20career%21%20Find%20out%20more%20and%20Join%20me%21&hashtags=21DayCkChallenge)**.** 
 2. Sign-up for the first workshop called [_**Orientation**_](https://smarturl.it/ck-orientation) or the second workshop called [_**Basic Training**_](https://smarturl.it/ck-basic-training). 
-3. If you haven't been added to a new Peer Circle, post which bootcamp prep course you're taking on the [Career Karma app](https://ck.chat/) and we'll match you to people learning similar technologies. 
+3. If you haven't been added to a new Peer Circle, post which bootcamp prep course you're taking on the [Career Karma app](https://smarturl.it/downloadCkTimur) and we'll match you to people learning similar technologies. 
 4. Obtain additional details on the [**Challenge Guidelines here.** ](challenge-guidelines.md)\*\*\*\*
 
 ## **Can I join the challenge?**
 
-If you're not yet part of Career Karma's community but you're interested in learning how to code please [download our free mobile app here](https://ck.chat). 
+If you're not yet part of Career Karma's community but you're interested in learning how to code please [download our free mobile app here](https://smarturl.it/downloadCkTimur). 
 
 One you register, you will encounter peers from all over U.S. who are helping one another become software engineers. 
 
