@@ -29,7 +29,7 @@ Based on the information above, select 2-3 bootcamps that fit your schedule, fin
 * [Thinkful](https://getstarted.thinkful.com/partnerships/career-karma-thinkful-engineering-course)
 * [Flatiron School](https://flatironschool.com/?utm_source=careerkarma&utm_medium=social)
 * [Skillscrush](https://skillcrush.com/is-tech-right-for-you-quiz-career-karma)
-* [Fullstack Academy](http://smarturl.it/FullstackAcademy?utm_campaign=Breaking%20Into%20Startups&utm_source=BreakingIntoStartups&utm_medium=breakingintostatups)
+* [Rithm School](https://smarturl.it/rithm_school_home)
 
 #### Leverage LinkedIn:
 
@@ -59,9 +59,7 @@ Here is a list of free prep course that you can take:
 * [Flatiron Bootcamp prep](https://flatironschool.com/free-courses/coding-bootcamp-prep/?utm_source=careerkarma&utm_medium=social)
 * [Hack Reactor SSP Program](http://smarturl.it/Hack-Reactor-prep)
 * [Thinkful apply for prep](http://smarturl.it/Thinkful)
-* [App Academy apply for prep](https://apply.appacademy.io/careerkarma-app-academy/)
-* [Fullstack Academy Coding fundementals course](http://smarturl.it/Fullstack-Academy)
-* [Fullstack Academy \(Gracehopper\) apply for prep](http://smarturl.it/Fullstack-gracehoppe)
+* [App Academy apply for prep](https://smarturl.it/app-academy-prep-ck)
 
 **Optional:**
 
