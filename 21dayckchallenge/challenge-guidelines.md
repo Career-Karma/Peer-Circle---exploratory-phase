@@ -56,6 +56,20 @@ This way as you expose yourself to information need to complete the career trans
 Make sure on the Career Karma app you have the notifications turned On so you can respond to messages 
 {% endhint %}
 
+We realize reaching out to people you just met might be scary at first... 
+
+So here are some good icebreaker questions to ask: 
+
+1. why did you join Career Karma? 
+2. where are you from originally? 
+3. what was your first job? 
+4. where do you want to work in the future? 
+5. are you reading any books lately? 
+6. how can I help you? 
+7. who do you know here? how are you? 
+8. what’s keeping you busy lately? 
+9. what do you do when you’re not coding?
+
 ## Fifth Step - Accountability
 
 To make this challenge a success we're going to be strict with participation. 
