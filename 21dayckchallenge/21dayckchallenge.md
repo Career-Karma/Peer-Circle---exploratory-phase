@@ -1,11 +1,6 @@
----
-description: >-
-  Warning: the following challenge contains steps that involve working with
-  other people, holding each other accountable and may lead to a career
-  transition that will result in a six figure income
----
-
 # \#21DayCkChallenge
+
+Warning: the following challenge contains steps that involve working with other people, holding each other accountable and may lead to a career transition that will result in a six figure income
 
 ## Welcome
 
@@ -16,7 +11,7 @@ Along the way, you will push yourself outside your comfort zone, make some new f
 ## Three Main Rules 
 
 1. Directly Message at least 2 people each day or 10 people each week on Career Karma by initiating a conversation to ask them how they're planning to break into tech in 2019 
-2. Create a Twitter post about the 3 people you have met each week by sharing their background and including the \#21DayCkChallenge hashtag 
+2. Create a Twitter post about people you meet each week, bootcamps you're interested in or your progress for the week using the \#21DayCkChallenge hashtag 
 3. Attend 1 Career Karma workshop a week over the next 3 weeks to create your personalize Career Transitioner Blueprint 
 
 ## Commitment
