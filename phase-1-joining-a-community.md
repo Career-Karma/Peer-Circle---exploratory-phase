@@ -38,7 +38,7 @@ Please watch previously recorded interviews with guest speakers who share their 
 
 [Get started with this JavaScript intro course](https://www.codecademy.com/learn/introduction-to-javascript?utm_source=google&utm_medium=adwords&utm_campaign=tm&utm_content=tm_javascript&utm_term=%2Bcodecademy%20%2Bjavascript&gclid=Cj0KCQjww8jcBRDZARIsAJGCSGu3mbP3AjJkLTWhnhXRGlbboIcW0x2eolFXAyb1l5Wbx41u1wpq6jUaAlS7EALw_wcB)
 
-**What you should of learned:**
+**What you should have learned:**
 
 * How other peers successfully transitioned to software engineering roles
 * What paths you can take to become a software engineer
