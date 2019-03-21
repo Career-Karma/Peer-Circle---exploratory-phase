@@ -4,12 +4,17 @@
 
 [A day in the life as a bootcamp student](https://www.youtube.com/watch?v=AvASMtTfR-8)
 
+* **[CourseReport](https://www.coursereport.com/)** - Popular ratings and review website for coding bootcamp programs
+* **[Switchup](https://www.switchup.org/)** - Popular ratings and review website for coding bootcamp programs
+
 #### Factors to consider when choosing a bootcamp:
 
 * **Time commitment** - Bootcamps typically offer in person full-time, in person part-time, online full-time, online part-time, and self paced programs
 * **Locations** - Bootcamps are located in various cities across the US and typically offer online options as well
 * **Length of bootcamp** - Bootcamps can range from 3 months - 1 year and some offer self-paced options
 * **Tuition** - Bootcamps have various ways of helping students finance their program. Some bootcamps do not charge tuition until they help you get a job \(known as deferred tuition or an income sharing agreement\)
+* **Reviews** - Bootcamp students usually write about their own experience when leaving reviews.
+* **Placement** - Bootcamps are typically required to report their placement information to their state regulatory groups and you have a right to ask for it from any program. In addition, many voluntarily release these numbers themselves or as a part of a reporting group, such as [CIRR.org](https://cirr.org/).
 
 **Refer to the chart below to help you shortlist some bootcamps to consider:**
 
@@ -26,7 +31,8 @@ Based on the information above, select 2-3 bootcamps that fit your schedule, fin
 * [Lambda School](https://lambdaschool.com/?mbsy=nWFFd&campaignid=33468&mbsy_source=1645c31c-62e1-4ae2-b999-17f4bbf6f3f7)
 * [App Academy](https://apply.appacademy.io/careerkarma-app-academy/)
 * [Hack Reactor](https://getcoding.hackreactor.com/bis/)
-* [Thinkful](https://getstarted.thinkful.com/partnerships/career-karma-thinkful-engineering-course)
+* [DigitalCrafts](https://getstarted.thinkful.com/partnerships/career-karma-thinkful-engineering-course)
+* [Thinkful](https://www.digitalcrafts.com/)
 * [Flatiron School](https://flatironschool.com/?utm_source=careerkarma&utm_medium=social)
 * [Rithm School](https://smarturl.it/rithm_school_home)
 
