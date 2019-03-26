@@ -10,7 +10,7 @@ Along the way, you will push yourself outside your comfort zone, make some new f
 
 ## Three Main Rules 
 
-1. Directly Message at least 2 people each day or 10 people each week on Career Karma by initiating a conversation to ask them how they're planning to break into tech in 2019 
+1. Directly Message at least 2 people each day on Career Karma by initiating a conversation to ask them how they're planning to break into tech in 2019 
 2. Create a Twitter post about people you meet each week, bootcamps you're interested in or your progress for the week using the \#21DayCkChallenge hashtag 
 3. Attend 1 Career Karma workshop a week over the next 3 weeks to create your personalize Career Transitioner Blueprint 
 
