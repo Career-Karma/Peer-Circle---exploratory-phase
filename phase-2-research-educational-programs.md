@@ -27,7 +27,7 @@ Based on the information above, select 2-3 bootcamps that fit your schedule, fin
 * [App Academy](https://apply.appacademy.io/careerkarma-app-academy/)
 * [Hack Reactor](https://getcoding.hackreactor.com/bis/)
 * [Thinkful](https://getstarted.thinkful.com/partnerships/career-karma-thinkful-engineering-course)
-* [Flatiron School](https://flatironschool.com/?utm_source=careerkarma&utm_medium=social)
+* [Flatiron School](http://smarturl.it/flatiron-ck)
 * [Rithm School](https://smarturl.it/rithm_school_home)
 
 #### Leverage LinkedIn:
