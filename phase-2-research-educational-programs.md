@@ -11,10 +11,6 @@
 * **Length of bootcamp** - Bootcamps can range from 3 months - 1 year and some offer self-paced options
 * **Tuition** - Bootcamps have various ways of helping students finance their program. Some bootcamps do not charge tuition until they help you get a job \(known as deferred tuition or an income sharing agreement\)
 
-**Refer to the chart below to help you shortlist some bootcamps to consider:**
-
-![bootcamp matrix](https://user-images.githubusercontent.com/25531425/45193068-24fbe700-b201-11e8-99de-a16c6683bef8.jpg)
-
 #### Research top 2-3 bootcamps:
 
 Based on the information above, select 2-3 bootcamps that fit your schedule, financing and learning style to explore further. The goal is to learn more about the various options and formats available to you.
@@ -23,12 +19,14 @@ Based on the information above, select 2-3 bootcamps that fit your schedule, fin
 
 **Here are the links to their websites:**
 
-* [Lambda School](https://lambda-school.sjv.io/7xEd5)
-* [App Academy](https://apply.appacademy.io/careerkarma-app-academy/)
-* [Hack Reactor](https://getcoding.hackreactor.com/bis/)
 * [Thinkful](https://getstarted.thinkful.com/partnerships/career-karma-thinkful-engineering-course)
 * [Flatiron School](http://smarturl.it/flatiron-ck)
 * [Rithm School](https://smarturl.it/rithm_school_home)
+* [Lambda School](https://lambda-school.sjv.io/7xEd5)
+* [App Academy](https://apply.appacademy.io/careerkarma-app-academy/)
+* [Hack Reactor](https://getcoding.hackreactor.com/bis/)
+
+
 
 #### Leverage LinkedIn:
 
