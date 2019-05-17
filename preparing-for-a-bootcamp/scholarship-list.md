@@ -65,6 +65,8 @@ _**Feel free to click through the quick links at the top of the page or on the r
   * [**Women, diversity, military, local \(mexico and bali\), vision**](https://codingnomads.co/scholarships/?utm_source=careerkarma)
 * **Coding Temple**
   * [**Women, college student, veteran, switchup**](https://www.switchup.org/bootcamps/coding-temple?utm_source=careerkarma)
+* **DigitalCrafts**
+  * [**Veterans, women**](https://www.digitalcrafts.com/blog/digitalcrafts-scholarships-women-and-veterans?utm_source=careerkarma)
 * **Firehose**
   * [**Merit and diversity**](https://thefirehoseproject.com/scholarship/?utm_source=careerkarma)
 * **Galvanize**
@@ -112,6 +114,7 @@ _**Feel free to click through the quick links at the top of the page or on the r
 * [**Codeup**](https://codeup.com/scholarships/?utm_source=careerkarma) ****- Codeup aims to narrow the gender gap in tech. For each Full-Stack program, they offer $10,000 in scholarships, exclusively to women. They award one recipient $5,000, and two recipients $2,500 each
 * [**Coding Dojo**](https://www.codingdojo.com/onsite-boot-camp#scholarships/?utm_source=careerkarma) ****- The Women in Tech Scholarship is intended for aspiring female computer programmers who require financial assistance to launch their careers. The amount offered is $1000
 * [**Coding Nomads**](https://codingnomads.co/scholarships/?utm_source=careerkarma) ****- Women in Tech Scholarship – $500 off onsite and 10% off online
+* [**DigitalCrafts**](https://www.digitalcrafts.com/blog/digitalcrafts-scholarships-women-and-veterans?utm_source=careerkarma) ****- Guarenteed Women and Veterans Scholarship. $1500 off full-time and $1000 off part-time tuition
 * [**Grand Circus**](https://www.grandcircus.co/bootcamps/tuition-and-scholarships/?utm_source=careerkarma) ****- $1500 tuition scholarship towards for web development program 
 * [**Helio Training**](https://heliotraining.com/scholarships/?utm_source=careerkarma) - Helio offers scholarships to 10 women learning software development each calendar year. For the full-time program $1,000 is offered, $500 for the part time 
 * [**Learning Fuze**](https://learningfuze.com/faq?utm_source=careerkarma) ****- Women and Veterans Scholarship = $500
@@ -134,6 +137,7 @@ _**Feel free to click through the quick links at the top of the page or on the r
 * [**Code Up**](https://codeup.com/scholarships/?utm_source=careerkarma) ****- Many veterans have the ability to attend Code Up using their VA benefits. For those that don’t, Code Up provides any veteran or dependent who enrolls in their Full-Stack program a $1,000 scholarship
 * [**Coding Dojo**](https://www.codingdojo.com/onsite-boot-camp#scholarships?utm_source=careerkarma) ****- The Military Retraining Scholarship is intended to assist military veterans and current servicemen/women to transition their careers to web software development. This scholarship may be applied to the onsite and online program of our bootcamp. The amount offered is $1,000
 * [**Coding Nomads**](https://codingnomads.co/scholarships/?utm_source=careerkarma) ****- Military Scholarship – $500 off onsite and 10% off online
+* [**DigitalCrafts**](https://www.digitalcrafts.com/blog/digitalcrafts-scholarships-women-and-veterans?utm_source=careerkarma) ****- Guarenteed Women and Veterans Scholarship. $1500 off full-time and $1000 off part-time tuition
 * [**Grand Circus**](https://www.grandcircus.co/bootcamps/tuition-and-scholarships/?utm_source=careerkarma) ****- $1500 tuition scholarship towards for web development program
 * [**Helio Training**](https://heliotraining.com/scholarships/?utm_source=careerkarma) ****- Helio Training is committed to current and past service men and women. They offer up to a $1,000 scholarship for all active duty, reserve, and veterans of the U.S. Military for their Career Changer courses, and up to $500 scholarship towards the Skill Builder courses
 * [**Learning Fuze**](https://learningfuze.com/faq?utm_source=careerkarma) - Women and Veterans Scholarship = $500
